@@ -1,0 +1,5 @@
+import type {BusRoute} from '../data/catalog'
+export function SeasonInfo({route,english}:{route:BusRoute;english:boolean}){
+ const kamikochi=route.spots.some(s=>s.name==='上高地')||route.name.includes('上高地')
+ return <div className="season-note"><h2>{english?'When to visit':'旅の季節'}</h2>{kamikochi?<><p>{english?'Fresh greenery: late May–early June. Flowers: July–August. Autumn colors: October. Timing varies with weather.':'新緑：5月下旬〜6月上旬／花：7〜8月／紅葉：10月。天候によって見頃は変わります。'}</p><p><a href="https://www.kamikochi.or.jp/learn/faq/" target="_blank" rel="noreferrer">{english?'Official seasonal guide':'上高地の公式季節案内'}</a></p>{route.id==='featured:kamikochi'&&<p>{english?'Shin-Shimashima–Kamikochi bus: April 17–November 15, 2026.':'新島々〜上高地のバス：2026年4月17日〜11月15日運行。'} <a href="https://www.alpico.co.jp/traffic/local/kamikochi/shinshimashima/" target="_blank" rel="noreferrer">{english?'Operating dates':'運行期間の出典'}</a></p>}<small>{english?'Checked September 27, 2026':'2026年9月27日確認'}</small></>:<p>{english?'Seasonal highlights are being verified. Check the official site for foliage, flowers and seasonal bus services.':'花・紅葉・雪景色の見頃は確認中です。季節運行や開花状況は公式情報をご確認ください。'}</p>}</div>
+}

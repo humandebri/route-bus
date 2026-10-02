@@ -1,0 +1,941 @@
+{
+  "municipal-a0f463152b9c2170": {
+    "photo": "/photos/municipal-b11c6808e2aadae9-thumb.webp",
+    "photo_original": "/photos/municipal-b11c6808e2aadae9-original.webp"
+  },
+  "municipal-931a16c1f8b5b93e": {
+    "photo": "/photos/municipal-794a206253e38b72-thumb.webp",
+    "photo_original": "/photos/municipal-794a206253e38b72-original.webp"
+  },
+  "municipal-9d8dd89574b0ac80": {
+    "photo": "/photos/municipal-985fe6c7a8974043-thumb.webp",
+    "photo_original": "/photos/municipal-985fe6c7a8974043-original.webp"
+  },
+  "municipal-b57e8c908c6eddca": {
+    "photo": "/photos/municipal-2610828731908cb7-thumb.webp",
+    "photo_original": "/photos/municipal-2610828731908cb7-original.webp"
+  },
+  "municipal-150c8b4cf9f3e360": {
+    "photo": "/photos/municipal-4a1b40866bc5b9e3-thumb.webp",
+    "photo_original": "/photos/municipal-4a1b40866bc5b9e3-original.webp"
+  },
+  "municipal-295bbcfec5edc6b2": {
+    "photo": "/photos/municipal-9ddae42e41241325-thumb.webp",
+    "photo_original": "/photos/municipal-9ddae42e41241325-original.webp"
+  },
+  "municipal-d1013fac9546546a": {
+    "photo": "/photos/municipal-34af5e5b55d4252f-thumb.webp",
+    "photo_original": "/photos/municipal-34af5e5b55d4252f-original.webp"
+  },
+  "municipal-aa9086e2474aab80": {
+    "photo": "/photos/municipal-55328890f52c4dca-thumb.webp",
+    "photo_original": "/photos/municipal-55328890f52c4dca-original.webp"
+  },
+  "municipal-93fecc2cb6fb5a8d": {
+    "photo": "/photos/municipal-72a1e06f4baa8d0f-thumb.webp",
+    "photo_original": "/photos/municipal-72a1e06f4baa8d0f-original.webp"
+  },
+  "municipal-5b39d6c84b1bee3a": {
+    "photo": "/photos/municipal-f1b584eee1050f56-thumb.webp",
+    "photo_original": "/photos/municipal-f1b584eee1050f56-original.webp"
+  },
+  "municipal-8ce6b5b6655714a1": {
+    "photo": "/photos/municipal-1731de64553ec8a8-thumb.webp",
+    "photo_original": "/photos/municipal-1731de64553ec8a8-original.webp"
+  },
+  "municipal-adfe38d004cc267b": {
+    "photo": "/photos/municipal-ef30c2613d65805a-thumb.webp",
+    "photo_original": "/photos/municipal-ef30c2613d65805a-original.webp"
+  },
+  "municipal-f5996c087fee5073": {
+    "photo": "/photos/municipal-a1dfb9acdc96eef8-thumb.webp",
+    "photo_original": "/photos/municipal-a1dfb9acdc96eef8-original.webp"
+  },
+  "municipal-6c08ee162152fd96": {
+    "photo": "/photos/municipal-0aa449cceabc592c-thumb.webp",
+    "photo_original": "/photos/municipal-0aa449cceabc592c-original.webp"
+  },
+  "municipal-b2134532de7ef530": {
+    "photo": "/photos/municipal-5c19351f10f8859d-thumb.webp",
+    "photo_original": "/photos/municipal-5c19351f10f8859d-original.webp"
+  },
+  "municipal-066b5ac2bd8b0642": {
+    "photo": "/photos/municipal-f1b8aece37acbb74-thumb.webp",
+    "photo_original": "/photos/municipal-f1b8aece37acbb74-original.webp"
+  },
+  "municipal-b849a5693c3562d8": {
+    "photo": "/photos/municipal-a86b2b1b315f59c4-thumb.webp",
+    "photo_original": "/photos/municipal-a86b2b1b315f59c4-original.webp"
+  },
+  "municipal-c2284fa477a66618": {
+    "photo": "/photos/municipal-b5c1895afb867523-thumb.webp",
+    "photo_original": "/photos/municipal-b5c1895afb867523-original.webp"
+  },
+  "municipal-bc77bb11627cf30e": {
+    "photo": "/photos/municipal-f59b57aa19b646ea-thumb.webp",
+    "photo_original": "/photos/municipal-f59b57aa19b646ea-original.webp"
+  },
+  "municipal-c40dec9e5129a8fd": {
+    "photo": "/photos/municipal-3c522ee3515fc509-thumb.webp",
+    "photo_original": "/photos/municipal-3c522ee3515fc509-original.webp"
+  },
+  "municipal-e1f4d16799c09f97": {
+    "photo": "/photos/municipal-cfb9613412917f57-thumb.webp",
+    "photo_original": "/photos/municipal-cfb9613412917f57-original.webp"
+  },
+  "municipal-c1a17a462edd4c2d": {
+    "photo": "/photos/municipal-cc2a20208782f2d5-thumb.webp",
+    "photo_original": "/photos/municipal-cc2a20208782f2d5-original.webp"
+  },
+  "municipal-78ce7e8a873e60ea": {
+    "photo": "/photos/municipal-a3f5239c00016820-thumb.webp",
+    "photo_original": "/photos/municipal-a3f5239c00016820-original.webp"
+  },
+  "municipal-71d1b67ee349f39c": {
+    "photo": "/photos/municipal-fd6237eee4e4c3ed-thumb.webp",
+    "photo_original": "/photos/municipal-fd6237eee4e4c3ed-original.webp"
+  },
+  "municipal-bfd86e1bb9434070": {
+    "photo": "/photos/municipal-28b84d50e1d82db9-thumb.webp",
+    "photo_original": "/photos/municipal-28b84d50e1d82db9-original.webp"
+  },
+  "municipal-9a9b90fb7fe9705a": {
+    "photo": "/photos/municipal-ac2ea46c3401a393-thumb.webp",
+    "photo_original": "/photos/municipal-ac2ea46c3401a393-original.webp"
+  },
+  "municipal-ba152a9fabc06839": {
+    "photo": "/photos/municipal-e34f908dee4df0df-thumb.webp",
+    "photo_original": "/photos/municipal-e34f908dee4df0df-original.webp"
+  },
+  "municipal-22e3aae0169c6393": {
+    "photo": "/photos/municipal-7d0de473c7094e97-thumb.webp",
+    "photo_original": "/photos/municipal-7d0de473c7094e97-original.webp"
+  },
+  "municipal-bcaee7625e24967d": {
+    "photo": "/photos/municipal-4f744d5efa8cf8be-thumb.webp",
+    "photo_original": "/photos/municipal-4f744d5efa8cf8be-original.webp"
+  },
+  "municipal-52b112de86d4cbf6": {
+    "photo": "/photos/municipal-4e517ac0e094a2d8-thumb.webp",
+    "photo_original": "/photos/municipal-4e517ac0e094a2d8-original.webp"
+  },
+  "municipal-d53ed0b08dd20b84": {
+    "photo": "/photos/municipal-d81fcc94bd49b7cc-thumb.webp",
+    "photo_original": "/photos/municipal-d81fcc94bd49b7cc-original.webp"
+  },
+  "municipal-4308742354caf8c1": {
+    "photo": "/photos/municipal-a0e0a9dc5948fe24-thumb.webp",
+    "photo_original": "/photos/municipal-a0e0a9dc5948fe24-original.webp"
+  },
+  "municipal-2ea33fd21c896cef": {
+    "photo": "/photos/municipal-8addd071224268e0-thumb.webp",
+    "photo_original": "/photos/municipal-8addd071224268e0-original.webp"
+  },
+  "municipal-2141ac1ea80d8855": {
+    "photo": "/photos/municipal-5578fd7fc75b9dbb-thumb.webp",
+    "photo_original": "/photos/municipal-5578fd7fc75b9dbb-original.webp"
+  },
+  "municipal-d57ae52139ed5dc5": {
+    "photo": "/photos/municipal-6d6d297490a41634-thumb.webp",
+    "photo_original": "/photos/municipal-6d6d297490a41634-original.webp"
+  },
+  "municipal-4dd2285bc9e139fc": {
+    "photo": "/photos/municipal-b3a041e4eb88c4e7-thumb.webp",
+    "photo_original": "/photos/municipal-b3a041e4eb88c4e7-original.webp"
+  },
+  "municipal-75c4b1e9bb6b0873": {
+    "photo": "/photos/municipal-42c9485b36943a85-thumb.webp",
+    "photo_original": "/photos/municipal-42c9485b36943a85-original.webp"
+  },
+  "municipal-c5381a432e1c2b7d": {
+    "photo": "/photos/municipal-e9690dac43524929-thumb.webp",
+    "photo_original": "/photos/municipal-e9690dac43524929-original.webp"
+  },
+  "municipal-c81f052a5bf5ed78": {
+    "photo": "/photos/municipal-c777355404717cd8-thumb.webp",
+    "photo_original": "/photos/municipal-c777355404717cd8-original.webp"
+  },
+  "municipal-d3921c37151b2b66": {
+    "photo": "/photos/municipal-6ae69cbe112ecf9f-thumb.webp",
+    "photo_original": "/photos/municipal-6ae69cbe112ecf9f-original.webp"
+  },
+  "municipal-a0efbb105159dd6d": {
+    "photo": "/photos/municipal-c3d954b2a452276e-thumb.webp",
+    "photo_original": "/photos/municipal-c3d954b2a452276e-original.webp"
+  },
+  "Q100549885": {
+    "photo": "/photos/Q100549885-thumb.webp",
+    "photo_original": "/photos/Q100549885-original.webp"
+  },
+  "Q101001030": {
+    "photo": "/photos/Q101001030-thumb.webp",
+    "photo_original": "/photos/Q101001030-original.webp"
+  },
+  "Q101086086": {
+    "photo": "/photos/Q101086086-thumb.webp",
+    "photo_original": "/photos/Q101086086-original.webp"
+  },
+  "Q101096659": {
+    "photo": "/photos/Q101096659-thumb.webp",
+    "photo_original": "/photos/Q101096659-original.webp"
+  },
+  "Q102045484": {
+    "photo": "/photos/Q102045484-thumb.webp",
+    "photo_original": "/photos/Q102045484-original.webp"
+  },
+  "Q102240298": {
+    "photo": "/photos/Q102240298-thumb.webp",
+    "photo_original": "/photos/Q102240298-original.webp"
+  },
+  "Q102427225": {
+    "photo": "/photos/Q102427225-thumb.webp",
+    "photo_original": "/photos/Q102427225-original.webp"
+  },
+  "Q102442450": {
+    "photo": "/photos/Q102442450-thumb.webp",
+    "photo_original": "/photos/Q102442450-original.webp"
+  },
+  "Q10333378": {
+    "photo": "/photos/Q10333378-thumb.webp",
+    "photo_original": "/photos/Q10333378-original.webp"
+  },
+  "Q104082588": {
+    "photo": "/photos/Q104082588-thumb.webp",
+    "photo_original": "/photos/Q104082588-original.webp"
+  },
+  "Q104103957": {
+    "photo": "/photos/Q104103957-thumb.webp",
+    "photo_original": "/photos/Q104103957-original.webp"
+  },
+  "Q1041232": {
+    "photo": "/photos/Q1041232-thumb.webp",
+    "photo_original": "/photos/Q1041232-original.webp"
+  },
+  "Q104205678": {
+    "photo": "/photos/Q104205678-thumb.webp",
+    "photo_original": "/photos/Q104205678-original.webp"
+  },
+  "Q104236548": {
+    "photo": "/photos/Q104236548-thumb.webp",
+    "photo_original": "/photos/Q104236548-original.webp"
+  },
+  "Q104236770": {
+    "photo": "/photos/Q104236770-thumb.webp",
+    "photo_original": "/photos/Q104236770-original.webp"
+  },
+  "Q104238072": {
+    "photo": "/photos/Q104238072-thumb.webp",
+    "photo_original": "/photos/Q104238072-original.webp"
+  },
+  "Q104239002": {
+    "photo": "/photos/Q104239002-thumb.webp",
+    "photo_original": "/photos/Q104239002-original.webp"
+  },
+  "Q104239410": {
+    "photo": "/photos/Q104239410-thumb.webp",
+    "photo_original": "/photos/Q104239410-original.webp"
+  },
+  "Q104243226": {
+    "photo": "/photos/Q104243226-thumb.webp",
+    "photo_original": "/photos/Q104243226-original.webp"
+  },
+  "Q1043816": {
+    "photo": "/photos/Q1043816-thumb.webp",
+    "photo_original": "/photos/Q1043816-original.webp"
+  },
+  "Q104575353": {
+    "photo": "/photos/Q104575353-thumb.webp",
+    "photo_original": "/photos/Q104575353-original.webp"
+  },
+  "Q104575526": {
+    "photo": "/photos/Q104575526-thumb.webp",
+    "photo_original": "/photos/Q104575526-original.webp"
+  },
+  "Q104575629": {
+    "photo": "/photos/Q104575629-thumb.webp",
+    "photo_original": "/photos/Q104575629-original.webp"
+  },
+  "Q104636664": {
+    "photo": "/photos/Q104636664-thumb.webp",
+    "photo_original": "/photos/Q104636664-original.webp"
+  },
+  "Q104661157": {
+    "photo": "/photos/Q104661157-thumb.webp",
+    "photo_original": "/photos/Q104661157-original.webp"
+  },
+  "Q104696239": {
+    "photo": "/photos/Q104696239-thumb.webp",
+    "photo_original": "/photos/Q104696239-original.webp"
+  },
+  "Q104696287": {
+    "photo": "/photos/Q104696287-thumb.webp",
+    "photo_original": "/photos/Q104696287-original.webp"
+  },
+  "Q104696289": {
+    "photo": "/photos/Q104696289-thumb.webp",
+    "photo_original": "/photos/Q104696289-original.webp"
+  },
+  "Q104696299": {
+    "photo": "/photos/Q104696299-thumb.webp",
+    "photo_original": "/photos/Q104696299-original.webp"
+  },
+  "Q104696352": {
+    "photo": "/photos/Q104696352-thumb.webp",
+    "photo_original": "/photos/Q104696352-original.webp"
+  },
+  "Q104696357": {
+    "photo": "/photos/Q104696357-thumb.webp",
+    "photo_original": "/photos/Q104696357-original.webp"
+  },
+  "Q104696366": {
+    "photo": "/photos/Q104696366-thumb.webp",
+    "photo_original": "/photos/Q104696366-original.webp"
+  },
+  "Q104696376": {
+    "photo": "/photos/Q104696376-thumb.webp",
+    "photo_original": "/photos/Q104696376-original.webp"
+  },
+  "Q104696379": {
+    "photo": "/photos/Q104696379-thumb.webp",
+    "photo_original": "/photos/Q104696379-original.webp"
+  },
+  "Q104696380": {
+    "photo": "/photos/Q104696380-thumb.webp",
+    "photo_original": "/photos/Q104696380-original.webp"
+  },
+  "Q104696381": {
+    "photo": "/photos/Q104696381-thumb.webp",
+    "photo_original": "/photos/Q104696381-original.webp"
+  },
+  "Q104696382": {
+    "photo": "/photos/Q104696382-thumb.webp",
+    "photo_original": "/photos/Q104696382-original.webp"
+  },
+  "Q104696383": {
+    "photo": "/photos/Q104696383-thumb.webp",
+    "photo_original": "/photos/Q104696383-original.webp"
+  },
+  "Q104696506": {
+    "photo": "/photos/Q104696506-thumb.webp",
+    "photo_original": "/photos/Q104696506-original.webp"
+  },
+  "Q104696762": {
+    "photo": "/photos/Q104696762-thumb.webp",
+    "photo_original": "/photos/Q104696762-original.webp"
+  },
+  "Q104696766": {
+    "photo": "/photos/Q104696766-thumb.webp",
+    "photo_original": "/photos/Q104696766-original.webp"
+  },
+  "Q104696769": {
+    "photo": "/photos/Q104696769-thumb.webp",
+    "photo_original": "/photos/Q104696769-original.webp"
+  },
+  "Q104696771": {
+    "photo": "/photos/Q104696771-thumb.webp",
+    "photo_original": "/photos/Q104696771-original.webp"
+  },
+  "Q104696774": {
+    "photo": "/photos/Q104696774-thumb.webp",
+    "photo_original": "/photos/Q104696774-original.webp"
+  },
+  "Q104696778": {
+    "photo": "/photos/Q104696778-thumb.webp",
+    "photo_original": "/photos/Q104696778-original.webp"
+  },
+  "municipal-88fce7767929fae6": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://openphoto.app/c/nisshin/photo/579"
+  },
+  "municipal-6afc0032d64a35bf": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://openphoto.app/c/nisshin/photo/590"
+  },
+  "municipal-6dba14c942ec7f81": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/8f1b96ca-8e12-4023-9616-92e3477c5e5c"
+  },
+  "municipal-7a854ef3e1eaf4e9": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/455d8d26-8217-4286-834a-e110e2b03365"
+  },
+  "municipal-1b2d3f2c7fe86274": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/1ab7cdfb-7e98-4e74-93ac-1e8a1333f16b"
+  },
+  "municipal-ac71454cb47d48f8": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/dbb4a865-84e4-4cbd-8fa9-12d4a176cd99"
+  },
+  "municipal-0e345405d41c4fa5": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/d2dd2867-1444-4e99-ae39-711b79f2b309"
+  },
+  "municipal-a6fff88ee20c5864": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/2e12a16e-ee97-4503-8824-a815032fec9b"
+  },
+  "municipal-6c61e63626044581": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/540d4942-54d6-4574-88a3-0a653fa01aab"
+  },
+  "municipal-475063d1a56d62e8": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/643c7fcb-f88e-447f-b2e7-516f052f2ea8"
+  },
+  "municipal-821edf4862b08625": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/d592d08d-55f4-4a10-a159-e60c6fada752"
+  },
+  "municipal-79f8202e30725ee2": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/f7d124f1-64fd-49d8-8daa-83fd44e11b3e"
+  },
+  "municipal-26b70660c8154634": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/722c25c3-49de-4061-8156-ad326dffef03"
+  },
+  "municipal-7f319a4473ca11a7": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/8c2cddd5-69cd-44e1-972e-f10027e09139"
+  },
+  "municipal-a2d3581482fb5da0": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/d04b14c1-ec67-4f62-9f18-7f168f1db6c9"
+  },
+  "municipal-f2c82fb13bfe3f71": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/f3d924d3-e5e4-4cd7-9ff6-2f3fb7fe949f"
+  },
+  "municipal-cac82ffa0f374474": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/1f96bde7-9aae-4294-97d1-118f0941f8dd"
+  },
+  "municipal-dd0911564b8bd323": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/3686baa9-9c7b-4052-adec-ae58cf9856f6"
+  },
+  "municipal-de8347b4edc8b4cd": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/db130746-909b-460e-8b3c-f6e16ee1831c"
+  },
+  "municipal-651933b0a0ca5bab": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/a921135c-8281-4967-bfc1-eecf29f27e0b"
+  },
+  "municipal-d78a859a9b3dc5c1": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/eac4f4fe-ba87-4026-b365-f3527b2d34fe"
+  },
+  "municipal-ac99734036e71b78": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/6b616d01-7f28-49e1-80f2-b930f13615dc"
+  },
+  "municipal-7bafab45abbadc0f": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/26570604-3025-4d6e-a26b-d8896e90c673"
+  },
+  "municipal-2cfaa0faf57bee65": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/1772e33d-d0c5-4de2-b146-463991cb4240"
+  },
+  "municipal-2cfc2fb09b70aca8": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/a1a34c92-c420-4367-8e0f-25c301e060c4"
+  },
+  "municipal-05ceeab95998233f": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/b41794df-3f93-462a-a564-73278cc3c0a9"
+  },
+  "municipal-995887993cfe6ea2": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/6329e698-10c5-4864-9d59-a4ae09bd7a34"
+  },
+  "municipal-0104305ef8710d9c": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/b691b498-f294-4a55-aa0f-f8fb33c08a3b"
+  },
+  "municipal-3d17bb0768418a52": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/8483020b-9240-4f7e-9205-0f7aaf0bb802"
+  },
+  "municipal-57a1d8c499e5cc91": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/232ebdda-64c4-4eb4-a805-edb2463656fc"
+  },
+  "municipal-06bb8c1190d17389": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/3168cc9c-f293-4dc5-ab47-dc5df1da0d52"
+  },
+  "municipal-97ade09c4dfa6f10": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/3d936e8b-5136-44ce-8ebe-656b0c15de00"
+  },
+  "municipal-cb21eef5518a334a": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/c6ef0766-eb3e-4ce3-a65c-0c43e2e9dcd2"
+  },
+  "municipal-b451b6d3e5b74b14": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/78c40aa2-0cc6-41bd-96ee-b4ec9efc5cbf"
+  },
+  "municipal-d0de391fbc13b745": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/d378e3cf-7674-4aac-8665-15a07001c81f"
+  },
+  "municipal-c1e2cf14d3891f69": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/4d4ff177-7496-49c5-a4d7-66cb2f30fc20"
+  },
+  "municipal-9c45d0d3e19a2bb6": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/4f166451-0c90-469d-9c2a-1eebb62c1d95"
+  },
+  "municipal-34896460ef16b627": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/040461af-75dd-40dc-9766-8dac7e1bbc90"
+  },
+  "municipal-df4ae8cbcea609b0": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/33d9ceab-e5a5-41d8-a4e4-da9d411126f6"
+  },
+  "municipal-848d5b3dbd79fce8": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/db6962af-63d8-4455-a70b-d5738a9a776a"
+  },
+  "municipal-f386d6c522641218": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/c6f814af-5481-4b13-a0db-eb68c47f1736"
+  },
+  "municipal-61672ae7f48e3786": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/330782af-7d15-45ef-a9d3-db02f82ebf26"
+  },
+  "municipal-2c6b9dd3ad0a8d48": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/b5291e2a-9a1c-490f-b858-ee5812edb697"
+  },
+  "municipal-70c05d0e14fae072": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/bff039a0-5750-4d45-99c8-1494d6c218c5"
+  },
+  "municipal-3c8c77efc4b4b3c4": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/101eab01-6a49-4ded-a0f7-a5d2996c83e6"
+  },
+  "municipal-951a7de55049224d": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/2bc4e641-b48f-4218-b81d-2b58235617f0"
+  },
+  "municipal-7261bc2aedc7f655": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/30395209-b981-4462-a114-b09164ee2b00"
+  },
+  "municipal-94173dfc4e544888": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/11c68ef1-66bb-41f8-9ee3-fbeadf5039aa"
+  },
+  "municipal-17eabc6fd4df08f3": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/c3fc3fe9-d5ed-4851-9987-e6992dd6b1d5"
+  },
+  "municipal-4d74da0f6b8d49ab": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/50f0cf10-8b76-404e-824c-d700357c1973"
+  },
+  "municipal-55877bbdff3d3c61": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/a68da5b3-cfa7-48ea-864a-8ef18fcf2142"
+  },
+  "municipal-21e5679f16bc2c11": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/de0bf900-df91-4585-acdf-22533f9ec1f7"
+  },
+  "municipal-2196c53c517de28a": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/01527c34-83e3-4541-9686-3d9085069d0f"
+  },
+  "municipal-b6efc9c85dc56019": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/40602893-0627-4379-92d0-e54802a55d35"
+  },
+  "municipal-acfd71948b418501": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/80c86d6e-8103-43e2-bf9b-133f861e2c3c"
+  },
+  "municipal-47151f5effc6830f": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/ed3cbe93-43b0-4a87-be05-462ab8bcfa76"
+  },
+  "municipal-fb62f061d8a1f553": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/18f6dc3d-ec5d-4d39-9a99-8da304fba98d"
+  },
+  "municipal-ba78a288f78a43a2": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/03552776-0db4-4f8f-97ab-523484c4b0d6"
+  },
+  "municipal-a3042dc6cc298404": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/db5db0da-cbf7-4bdf-896d-6d173d2c6b17"
+  },
+  "municipal-b667ec712d94353a": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/23630c76-414c-4ea4-95c5-dfe41bb6f669"
+  },
+  "municipal-10a02191f347e708": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/57c0f6ef-c2db-49dc-9ec6-2782be7108ae"
+  },
+  "municipal-f7889b2abfc49c11": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/ad1224ee-9c2a-488f-9009-19df8b4ceac7"
+  },
+  "municipal-44ed5b98fc81c2e8": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/8d557572-dd5d-470d-99ab-97ba06c0137c"
+  },
+  "municipal-bf99edf59ec616af": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/5e97428a-f1ad-47a4-b52f-4763d63be5d0"
+  },
+  "municipal-a38c53e32354edf6": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/db01cebb-87e4-42c2-bb1e-361ce480d908"
+  },
+  "municipal-e6cb801575adaa64": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/4506d0f9-025e-4f14-84be-951f02c57f87"
+  },
+  "municipal-cc11ca131d828d21": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/5fe81f1d-7ac1-40b3-8713-472dd61ff0a1"
+  },
+  "municipal-3565277cc6fbdf30": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/3a17526c-19f3-4330-873e-ad82041dac21"
+  },
+  "municipal-80ad47fca7d66c84": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/8b751404-2261-4a47-8be9-ecb8a8865cc4"
+  },
+  "municipal-c7ef65f5d94fe8b4": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/af6b8240-1819-4c03-8f9c-d856d3ea9949"
+  },
+  "municipal-4445ba1d7c0c299c": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/6c6d5c5f-e4df-4cc3-b92e-479ae3c598f9"
+  },
+  "municipal-ecf75b3dca75f10c": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/273ee5c1-eb12-4164-95c4-f31f42e646d8"
+  },
+  "municipal-00b9620313357db2": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/637d947f-df5d-4a3b-9393-79603fdd6367"
+  },
+  "municipal-f437d9a4298e8d73": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/f4c72d28-a462-4128-8951-e19f2e998e6f"
+  },
+  "municipal-18018a6fdfb623ba": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/83af2fbf-08f5-4aac-b2ca-acc858fb63ca"
+  },
+  "municipal-72684203e3e847eb": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/49d296cc-6bcb-4ffe-9f26-60ed016fd4af"
+  },
+  "municipal-7737c73b7511fbc3": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/65626453-9a2a-4dd9-9316-b86889d0d6a6"
+  },
+  "municipal-c331f1ad1e2274a5": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/c91baf37-10eb-4434-97a5-5b6ab70b55d9"
+  },
+  "municipal-45ceb9fe7322363c": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/78ee1546-d942-42c2-b7be-6b73a1608d07"
+  },
+  "municipal-57c8e3a991158bde": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/c688c0e6-1ac2-43a1-8440-6f15208880af"
+  },
+  "municipal-8e3904f644fa97dd": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/efde27d8-a4a9-4f1b-bcaa-7beea66bcbfe"
+  },
+  "municipal-f7ebf654c74c4b35": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/387e2aad-40b9-423a-9bc3-83d0e37ab638"
+  },
+  "municipal-d46874d68ecc4a19": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/d3ecedff-4194-4f85-b643-e127bd10d8f3"
+  },
+  "municipal-3634a3a549124093": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/82ea9865-df82-4751-b79e-f0a9c81d3458"
+  },
+  "municipal-65b9f70a58ff2cb4": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/06cc96e7-8c73-4392-bcc6-ceb0ab43a3a5"
+  },
+  "municipal-be7313fe29c1f2bd": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/4f60901b-faa9-4b49-9188-23f3e3248322"
+  },
+  "municipal-f05a948c318ebc3c": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/ee922c62-38a0-4495-97d5-16c6af418942"
+  },
+  "municipal-dfa77e890d32566a": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/89ea8a91-b709-4496-8485-8353015a2ebf"
+  },
+  "municipal-45423b7cca550252": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/ba03cee2-b4e5-4edf-9d95-dc89167d3b52"
+  },
+  "municipal-1fe3c043dfbb9a92": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/b2819c08-4c9c-4a18-a38b-3e1b06d5d843"
+  },
+  "municipal-2dd743c194086cba": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/78c25c36-7654-47b5-97ee-0a0d08a76193"
+  },
+  "municipal-8b6a285e6ed2b15c": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/344e2b8f-61ff-4567-a4fd-ee8ee02895fc"
+  },
+  "municipal-7eb0882c49c35406": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/9d4a159a-b618-4f19-b019-bed638660ed1"
+  },
+  "municipal-4decf8cc1bc83d96": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/fd6d3fd8-f711-4141-81f8-844fe1b49180"
+  },
+  "municipal-40aea874c992813f": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/8cd81f49-f274-400f-a648-0c161ccdf166"
+  },
+  "municipal-566a3f0bbcaf046c": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/0e6ce6b9-1532-4097-807e-4e017a21643e"
+  },
+  "municipal-82264bc59ec1edc1": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/c5a1907b-06b6-4c0c-ac66-e1019192766b"
+  },
+  "municipal-6cc9aec83b0ead4f": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/132bd3ff-484e-48db-abd4-e7ff9bdec99d"
+  },
+  "municipal-cb35695174876002": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/ac84abb0-33dc-463d-b94b-5603a5b4b7f5"
+  },
+  "municipal-d94b06a489b0d6c2": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/452025_bunkazai_picture/resource/866a323a-34c7-4879-95bf-3d686f186c03"
+  },
+  "municipal-fb1717a68c452aaa": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://www.city.matsubara.lg.jp/material/images/group/56/d0000037_tn.jpg"
+  },
+  "municipal-b753adab1faae225": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://www.city.matsubara.lg.jp/material/images/group/56/d0000032-1_tn.jpg"
+  },
+  "municipal-addcea32b60fb718": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://www.city.matsubara.lg.jp/material/images/group/56/d0000045_tn.jpg"
+  },
+  "municipal-6fefc2172027343d": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://kimotsuki-town.jp/material/files/group/67/tukazaki_b.jpg"
+  },
+  "municipal-5a5a15555ca13518": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://kimotsuki-town.jp/material/images/group/67/kouyamajo.jpg"
+  },
+  "municipal-90ef5b35faaabaab": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://kimotsuki-town.jp/material/images/group/67/kusu-tukazaki.jpg"
+  },
+  "municipal-85161d43e93e42e2": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://kimotsuki-town.jp/material/files/group/67/tanokami-nosaki_b.jpg"
+  },
+  "municipal-19fbe6dfeeb5dcc7": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://kimotsuki-town.jp/material/files/group/67/kimotuki_b.jpg"
+  },
+  "municipal-8085a4d215840957": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://openphoto.app/c/funabashi/photo/13210;https://openphoto.app/c/funabashi/photo/13209;https://openphoto.app/c/funabashi/photo/13208;https://openphoto.app/c/funabashi/photo/13207;https://openphoto.app/c/funabashi/photo/13205;https://openphoto.app/c/funabashi/photo/13206"
+  },
+  "municipal-6c8e8beffcb820c5": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://openphoto.app/c/funabashi/photo/13204;https://openphoto.app/c/funabashi/photo/13201;https://openphoto.app/c/funabashi/photo/13202;https://openphoto.app/c/funabashi/photo/13203;https://openphoto.app/c/funabashi/photo/13200"
+  },
+  "municipal-d98033897a59af69": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://openphoto.app/c/funabashi/photo/13199;https://openphoto.app/c/funabashi/photo/13198;https://openphoto.app/c/funabashi/photo/13197"
+  },
+  "municipal-8601a4553b354896": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://openphoto.app/c/funabashi/photo/13185;https://openphoto.app/c/funabashi/photo/13184;https://openphoto.app/c/funabashi/photo/13183"
+  },
+  "municipal-9e45b62cc105859b": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://openphoto.app/c/funabashi/photo/13196;https://openphoto.app/c/funabashi/photo/13195;https://openphoto.app/c/funabashi/photo/13193;https://openphoto.app/c/funabashi/photo/13192;https://openphoto.app/c/funabashi/photo/13191;https://openphoto.app/c/funabashi/photo/13194"
+  },
+  "municipal-12e2c8c6d3e517b6": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://openphoto.app/c/funabashi/photo/13190;https://openphoto.app/c/funabashi/photo/13189;https://openphoto.app/c/funabashi/photo/13188;https://openphoto.app/c/funabashi/photo/13187;https://openphoto.app/c/funabashi/photo/13186"
+  },
+  "municipal-acd10213b183f129": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/552df723-779c-4ca7-8e61-42ccd09c8d79/resource/4cc14261-3eb1-4edc-8b22-7d136fa9b3b4/download/isahaya_museum.jpg"
+  },
+  "municipal-4d42022ed5752795": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/552df723-779c-4ca7-8e61-42ccd09c8d79/resource/947dce06-aa70-487c-93eb-b7cd182e2f4b/download/ukiuki_beach.jpg"
+  },
+  "municipal-f4751b93c4400376": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/552df723-779c-4ca7-8e61-42ccd09c8d79/resource/75cea637-366f-448f-ac05-414aa8e1aa46/download/isahaya_park_megane_bashi.jpg"
+  },
+  "municipal-b187cb4beeafd56e": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/552df723-779c-4ca7-8e61-42ccd09c8d79/resource/a83e7f3e-59f8-4181-bd62-a4584a864516/download/cosmos_astronomival_hall.jpg"
+  },
+  "municipal-c568a2f99287ed9e": {
+    "photo": "",
+    "photo_original": "",
+    "photo_external": "https://data.bodik.jp/dataset/552df723-779c-4ca7-8e61-42ccd09c8d79/resource/e1911941-b1ac-4635-aedb-49b8a95234e9/download/karako_otus_garden.jpg"
+  }
+}

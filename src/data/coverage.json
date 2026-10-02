@@ -1,0 +1,476 @@
+{
+  "prefectures": [
+    {
+      "prefecture": "北海道",
+      "prefectureEn": "Hokkaido",
+      "prefectureCode": 1,
+      "gtfsRoutes": 19,
+      "publishedRoutes": 2,
+      "municipalSpots": 0,
+      "osmSpots": 4,
+      "spots": 4
+    },
+    {
+      "prefecture": "青森県",
+      "prefectureEn": "Aomori",
+      "prefectureCode": 2,
+      "gtfsRoutes": 185,
+      "publishedRoutes": 16,
+      "municipalSpots": 0,
+      "osmSpots": 46,
+      "spots": 46
+    },
+    {
+      "prefecture": "岩手県",
+      "prefectureEn": "Iwate",
+      "prefectureCode": 3,
+      "gtfsRoutes": 46,
+      "publishedRoutes": 4,
+      "municipalSpots": 0,
+      "osmSpots": 25,
+      "spots": 25
+    },
+    {
+      "prefecture": "宮城県",
+      "prefectureEn": "Miyagi",
+      "prefectureCode": 4,
+      "gtfsRoutes": 12,
+      "publishedRoutes": 3,
+      "municipalSpots": 0,
+      "osmSpots": 38,
+      "spots": 38
+    },
+    {
+      "prefecture": "秋田県",
+      "prefectureEn": "Akita",
+      "prefectureCode": 5,
+      "gtfsRoutes": 31,
+      "publishedRoutes": 2,
+      "municipalSpots": 0,
+      "osmSpots": 13,
+      "spots": 13
+    },
+    {
+      "prefecture": "山形県",
+      "prefectureEn": "Yamagata",
+      "prefectureCode": 6,
+      "gtfsRoutes": 311,
+      "publishedRoutes": 39,
+      "municipalSpots": 0,
+      "osmSpots": 72,
+      "spots": 72
+    },
+    {
+      "prefecture": "福島県",
+      "prefectureEn": "Fukushima",
+      "prefectureCode": 7,
+      "gtfsRoutes": 76,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 2,
+      "spots": 2
+    },
+    {
+      "prefecture": "茨城県",
+      "prefectureEn": "Ibaraki",
+      "prefectureCode": 8,
+      "gtfsRoutes": 31,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 0,
+      "spots": 0
+    },
+    {
+      "prefecture": "栃木県",
+      "prefectureEn": "Tochigi",
+      "prefectureCode": 9,
+      "gtfsRoutes": 71,
+      "publishedRoutes": 5,
+      "municipalSpots": 0,
+      "osmSpots": 14,
+      "spots": 14
+    },
+    {
+      "prefecture": "群馬県",
+      "prefectureEn": "Gunma",
+      "prefectureCode": 10,
+      "gtfsRoutes": 38,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 0,
+      "spots": 0
+    },
+    {
+      "prefecture": "埼玉県",
+      "prefectureEn": "Saitama",
+      "prefectureCode": 11,
+      "gtfsRoutes": 41,
+      "publishedRoutes": 3,
+      "municipalSpots": 0,
+      "osmSpots": 8,
+      "spots": 8
+    },
+    {
+      "prefecture": "千葉県",
+      "prefectureEn": "Chiba",
+      "prefectureCode": 12,
+      "gtfsRoutes": 63,
+      "publishedRoutes": 8,
+      "municipalSpots": 0,
+      "osmSpots": 21,
+      "spots": 21
+    },
+    {
+      "prefecture": "東京都",
+      "prefectureEn": "Tokyo",
+      "prefectureCode": 13,
+      "gtfsRoutes": 33,
+      "publishedRoutes": 4,
+      "municipalSpots": 0,
+      "osmSpots": 4,
+      "spots": 4
+    },
+    {
+      "prefecture": "神奈川県",
+      "prefectureEn": "Kanagawa",
+      "prefectureCode": 14,
+      "gtfsRoutes": 17,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 0,
+      "spots": 0
+    },
+    {
+      "prefecture": "新潟県",
+      "prefectureEn": "Niigata",
+      "prefectureCode": 15,
+      "gtfsRoutes": 46,
+      "publishedRoutes": 4,
+      "municipalSpots": 0,
+      "osmSpots": 14,
+      "spots": 14
+    },
+    {
+      "prefecture": "富山県",
+      "prefectureEn": "Toyama",
+      "prefectureCode": 16,
+      "gtfsRoutes": 553,
+      "publishedRoutes": 26,
+      "municipalSpots": 0,
+      "osmSpots": 38,
+      "spots": 38
+    },
+    {
+      "prefecture": "石川県",
+      "prefectureEn": "Ishikawa",
+      "prefectureCode": 17,
+      "gtfsRoutes": 35,
+      "publishedRoutes": 5,
+      "municipalSpots": 0,
+      "osmSpots": 19,
+      "spots": 19
+    },
+    {
+      "prefecture": "福井県",
+      "prefectureEn": "Fukui",
+      "prefectureCode": 18,
+      "gtfsRoutes": 133,
+      "publishedRoutes": 17,
+      "municipalSpots": 0,
+      "osmSpots": 40,
+      "spots": 40
+    },
+    {
+      "prefecture": "山梨県",
+      "prefectureEn": "Yamanashi",
+      "prefectureCode": 19,
+      "gtfsRoutes": 32,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 0,
+      "spots": 0
+    },
+    {
+      "prefecture": "長野県",
+      "prefectureEn": "Nagano",
+      "prefectureCode": 20,
+      "gtfsRoutes": 260,
+      "publishedRoutes": 38,
+      "municipalSpots": 0,
+      "osmSpots": 203,
+      "spots": 203
+    },
+    {
+      "prefecture": "岐阜県",
+      "prefectureEn": "Gifu",
+      "prefectureCode": 21,
+      "gtfsRoutes": 359,
+      "publishedRoutes": 28,
+      "municipalSpots": 0,
+      "osmSpots": 97,
+      "spots": 97
+    },
+    {
+      "prefecture": "静岡県",
+      "prefectureEn": "Shizuoka",
+      "prefectureCode": 22,
+      "gtfsRoutes": 34,
+      "publishedRoutes": 2,
+      "municipalSpots": 0,
+      "osmSpots": 1,
+      "spots": 1
+    },
+    {
+      "prefecture": "愛知県",
+      "prefectureEn": "Aichi",
+      "prefectureCode": 23,
+      "gtfsRoutes": 276,
+      "publishedRoutes": 30,
+      "municipalSpots": 11,
+      "osmSpots": 91,
+      "spots": 102
+    },
+    {
+      "prefecture": "三重県",
+      "prefectureEn": "Mie",
+      "prefectureCode": 24,
+      "gtfsRoutes": 284,
+      "publishedRoutes": 22,
+      "municipalSpots": 14,
+      "osmSpots": 49,
+      "spots": 63
+    },
+    {
+      "prefecture": "滋賀県",
+      "prefectureEn": "Shiga",
+      "prefectureCode": 25,
+      "gtfsRoutes": 95,
+      "publishedRoutes": 4,
+      "municipalSpots": 3,
+      "osmSpots": 12,
+      "spots": 15
+    },
+    {
+      "prefecture": "京都府",
+      "prefectureEn": "Kyoto",
+      "prefectureCode": 26,
+      "gtfsRoutes": 0,
+      "publishedRoutes": 1,
+      "municipalSpots": 18,
+      "osmSpots": 8,
+      "spots": 26
+    },
+    {
+      "prefecture": "大阪府",
+      "prefectureEn": "Osaka",
+      "prefectureCode": 27,
+      "gtfsRoutes": 4,
+      "publishedRoutes": 2,
+      "municipalSpots": 28,
+      "osmSpots": 7,
+      "spots": 35
+    },
+    {
+      "prefecture": "兵庫県",
+      "prefectureEn": "Hyogo",
+      "prefectureCode": 28,
+      "gtfsRoutes": 189,
+      "publishedRoutes": 13,
+      "municipalSpots": 133,
+      "osmSpots": 36,
+      "spots": 169
+    },
+    {
+      "prefecture": "奈良県",
+      "prefectureEn": "Nara",
+      "prefectureCode": 29,
+      "gtfsRoutes": 11,
+      "publishedRoutes": 3,
+      "municipalSpots": 0,
+      "osmSpots": 9,
+      "spots": 9
+    },
+    {
+      "prefecture": "和歌山県",
+      "prefectureEn": "Wakayama",
+      "prefectureCode": 30,
+      "gtfsRoutes": 145,
+      "publishedRoutes": 9,
+      "municipalSpots": 0,
+      "osmSpots": 20,
+      "spots": 20
+    },
+    {
+      "prefecture": "鳥取県",
+      "prefectureEn": "Tottori",
+      "prefectureCode": 31,
+      "gtfsRoutes": 161,
+      "publishedRoutes": 15,
+      "municipalSpots": 0,
+      "osmSpots": 60,
+      "spots": 60
+    },
+    {
+      "prefecture": "島根県",
+      "prefectureEn": "Shimane",
+      "prefectureCode": 32,
+      "gtfsRoutes": 2,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 0,
+      "spots": 0
+    },
+    {
+      "prefecture": "岡山県",
+      "prefectureEn": "Okayama",
+      "prefectureCode": 33,
+      "gtfsRoutes": 58,
+      "publishedRoutes": 3,
+      "municipalSpots": 0,
+      "osmSpots": 4,
+      "spots": 4
+    },
+    {
+      "prefecture": "広島県",
+      "prefectureEn": "Hiroshima",
+      "prefectureCode": 34,
+      "gtfsRoutes": 0,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 0,
+      "spots": 0
+    },
+    {
+      "prefecture": "山口県",
+      "prefectureEn": "Yamaguchi",
+      "prefectureCode": 35,
+      "gtfsRoutes": 0,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 0,
+      "spots": 0
+    },
+    {
+      "prefecture": "徳島県",
+      "prefectureEn": "Tokushima",
+      "prefectureCode": 36,
+      "gtfsRoutes": 155,
+      "publishedRoutes": 12,
+      "municipalSpots": 0,
+      "osmSpots": 29,
+      "spots": 29
+    },
+    {
+      "prefecture": "香川県",
+      "prefectureEn": "Kagawa",
+      "prefectureCode": 37,
+      "gtfsRoutes": 49,
+      "publishedRoutes": 2,
+      "municipalSpots": 0,
+      "osmSpots": 11,
+      "spots": 11
+    },
+    {
+      "prefecture": "愛媛県",
+      "prefectureEn": "Ehime",
+      "prefectureCode": 38,
+      "gtfsRoutes": 0,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 0,
+      "spots": 0
+    },
+    {
+      "prefecture": "高知県",
+      "prefectureEn": "Kochi",
+      "prefectureCode": 39,
+      "gtfsRoutes": 265,
+      "publishedRoutes": 20,
+      "municipalSpots": 0,
+      "osmSpots": 77,
+      "spots": 77
+    },
+    {
+      "prefecture": "福岡県",
+      "prefectureEn": "Fukuoka",
+      "prefectureCode": 40,
+      "gtfsRoutes": 168,
+      "publishedRoutes": 9,
+      "municipalSpots": 0,
+      "osmSpots": 12,
+      "spots": 12
+    },
+    {
+      "prefecture": "佐賀県",
+      "prefectureEn": "Saga",
+      "prefectureCode": 41,
+      "gtfsRoutes": 6,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 0,
+      "spots": 0
+    },
+    {
+      "prefecture": "長崎県",
+      "prefectureEn": "Nagasaki",
+      "prefectureCode": 42,
+      "gtfsRoutes": 8,
+      "publishedRoutes": 0,
+      "municipalSpots": 1,
+      "osmSpots": 0,
+      "spots": 1
+    },
+    {
+      "prefecture": "熊本県",
+      "prefectureEn": "Kumamoto",
+      "prefectureCode": 43,
+      "gtfsRoutes": 845,
+      "publishedRoutes": 293,
+      "municipalSpots": 687,
+      "osmSpots": 106,
+      "spots": 793
+    },
+    {
+      "prefecture": "大分県",
+      "prefectureEn": "Oita",
+      "prefectureCode": 44,
+      "gtfsRoutes": 34,
+      "publishedRoutes": 1,
+      "municipalSpots": 2,
+      "osmSpots": 32,
+      "spots": 34
+    },
+    {
+      "prefecture": "宮崎県",
+      "prefectureEn": "Miyazaki",
+      "prefectureCode": 45,
+      "gtfsRoutes": 0,
+      "publishedRoutes": 1,
+      "municipalSpots": 0,
+      "osmSpots": 1,
+      "spots": 1
+    },
+    {
+      "prefecture": "鹿児島県",
+      "prefectureEn": "Kagoshima",
+      "prefectureCode": 46,
+      "gtfsRoutes": 87,
+      "publishedRoutes": 3,
+      "municipalSpots": 0,
+      "osmSpots": 3,
+      "spots": 3
+    },
+    {
+      "prefecture": "沖縄県",
+      "prefectureEn": "Okinawa",
+      "prefectureCode": 47,
+      "gtfsRoutes": 7,
+      "publishedRoutes": 3,
+      "municipalSpots": 31,
+      "osmSpots": 17,
+      "spots": 48
+    }
+  ],
+  "unassignedSpots": 88,
+  "notice": "件数は収集済みの範囲です。1件以上あっても都道府県の全路線・全観光地を網羅したことを意味しません。"
+}

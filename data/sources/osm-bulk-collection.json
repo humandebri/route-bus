@@ -1,0 +1,253 @@
+{
+  "source": "https://download.geofabrik.de/asia/japan.html",
+  "download": "https://download.geofabrik.de/asia/japan-latest.osm.pbf",
+  "license": "ODbL 1.0",
+  "archive": "data/raw/osm/japan-latest.osm.pbf",
+  "sha256": "796730cb040088f37712de0324684ab1de5b58e905a38081783695fa47a71fcd",
+  "bytes": 2537341328,
+  "snapshot": "2026-09-26T20:22:51Z",
+  "collectedAt": "2026-09-27T07:13:40.892102+00:00",
+  "places": 18840,
+  "invalidGeometry": 0,
+  "prefectures": [
+    {
+      "prefecture": "北海道",
+      "prefectureCode": 1,
+      "accepted": 1085
+    },
+    {
+      "prefecture": "青森県",
+      "prefectureCode": 2,
+      "accepted": 233
+    },
+    {
+      "prefecture": "岩手県",
+      "prefectureCode": 3,
+      "accepted": 187
+    },
+    {
+      "prefecture": "宮城県",
+      "prefectureCode": 4,
+      "accepted": 646
+    },
+    {
+      "prefecture": "秋田県",
+      "prefectureCode": 5,
+      "accepted": 350
+    },
+    {
+      "prefecture": "山形県",
+      "prefectureCode": 6,
+      "accepted": 245
+    },
+    {
+      "prefecture": "福島県",
+      "prefectureCode": 7,
+      "accepted": 284
+    },
+    {
+      "prefecture": "茨城県",
+      "prefectureCode": 8,
+      "accepted": 228
+    },
+    {
+      "prefecture": "栃木県",
+      "prefectureCode": 9,
+      "accepted": 299
+    },
+    {
+      "prefecture": "群馬県",
+      "prefectureCode": 10,
+      "accepted": 251
+    },
+    {
+      "prefecture": "埼玉県",
+      "prefectureCode": 11,
+      "accepted": 364
+    },
+    {
+      "prefecture": "千葉県",
+      "prefectureCode": 12,
+      "accepted": 535
+    },
+    {
+      "prefecture": "東京都",
+      "prefectureCode": 13,
+      "accepted": 1258
+    },
+    {
+      "prefecture": "神奈川県",
+      "prefectureCode": 14,
+      "accepted": 586
+    },
+    {
+      "prefecture": "新潟県",
+      "prefectureCode": 15,
+      "accepted": 318
+    },
+    {
+      "prefecture": "富山県",
+      "prefectureCode": 16,
+      "accepted": 184
+    },
+    {
+      "prefecture": "石川県",
+      "prefectureCode": 17,
+      "accepted": 270
+    },
+    {
+      "prefecture": "福井県",
+      "prefectureCode": 18,
+      "accepted": 191
+    },
+    {
+      "prefecture": "山梨県",
+      "prefectureCode": 19,
+      "accepted": 303
+    },
+    {
+      "prefecture": "長野県",
+      "prefectureCode": 20,
+      "accepted": 1946
+    },
+    {
+      "prefecture": "岐阜県",
+      "prefectureCode": 21,
+      "accepted": 389
+    },
+    {
+      "prefecture": "静岡県",
+      "prefectureCode": 22,
+      "accepted": 787
+    },
+    {
+      "prefecture": "愛知県",
+      "prefectureCode": 23,
+      "accepted": 608
+    },
+    {
+      "prefecture": "三重県",
+      "prefectureCode": 24,
+      "accepted": 182
+    },
+    {
+      "prefecture": "滋賀県",
+      "prefectureCode": 25,
+      "accepted": 322
+    },
+    {
+      "prefecture": "京都府",
+      "prefectureCode": 26,
+      "accepted": 465
+    },
+    {
+      "prefecture": "大阪府",
+      "prefectureCode": 27,
+      "accepted": 688
+    },
+    {
+      "prefecture": "兵庫県",
+      "prefectureCode": 28,
+      "accepted": 636
+    },
+    {
+      "prefecture": "奈良県",
+      "prefectureCode": 29,
+      "accepted": 268
+    },
+    {
+      "prefecture": "和歌山県",
+      "prefectureCode": 30,
+      "accepted": 166
+    },
+    {
+      "prefecture": "鳥取県",
+      "prefectureCode": 31,
+      "accepted": 234
+    },
+    {
+      "prefecture": "島根県",
+      "prefectureCode": 32,
+      "accepted": 187
+    },
+    {
+      "prefecture": "岡山県",
+      "prefectureCode": 33,
+      "accepted": 341
+    },
+    {
+      "prefecture": "広島県",
+      "prefectureCode": 34,
+      "accepted": 276
+    },
+    {
+      "prefecture": "山口県",
+      "prefectureCode": 35,
+      "accepted": 191
+    },
+    {
+      "prefecture": "徳島県",
+      "prefectureCode": 36,
+      "accepted": 119
+    },
+    {
+      "prefecture": "香川県",
+      "prefectureCode": 37,
+      "accepted": 174
+    },
+    {
+      "prefecture": "愛媛県",
+      "prefectureCode": 38,
+      "accepted": 187
+    },
+    {
+      "prefecture": "高知県",
+      "prefectureCode": 39,
+      "accepted": 182
+    },
+    {
+      "prefecture": "福岡県",
+      "prefectureCode": 40,
+      "accepted": 419
+    },
+    {
+      "prefecture": "佐賀県",
+      "prefectureCode": 41,
+      "accepted": 130
+    },
+    {
+      "prefecture": "長崎県",
+      "prefectureCode": 42,
+      "accepted": 272
+    },
+    {
+      "prefecture": "熊本県",
+      "prefectureCode": 43,
+      "accepted": 222
+    },
+    {
+      "prefecture": "大分県",
+      "prefectureCode": 44,
+      "accepted": 206
+    },
+    {
+      "prefecture": "宮崎県",
+      "prefectureCode": 45,
+      "accepted": 103
+    },
+    {
+      "prefecture": "鹿児島県",
+      "prefectureCode": 46,
+      "accepted": 384
+    },
+    {
+      "prefecture": "沖縄県",
+      "prefectureCode": 47,
+      "accepted": 411
+    }
+  ],
+  "unassigned": 482,
+  "scope": "Named tourism nodes and ways nationwide; relations only from earlier regional extracts. Not complete tourism coverage.",
+  "boundarySource": "https://www.geoboundaries.org/api/current/gbOpen/JPN/ADM1/",
+  "boundaryYear": 2017
+}

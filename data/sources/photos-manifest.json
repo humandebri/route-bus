@@ -1,0 +1,697 @@
+[
+  {
+    "id": "Q100549885",
+    "variant": "thumb",
+    "file": "build/photos/Q100549885-thumb.jpg",
+    "key": "photos/Q100549885-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tochigi_Float_Museum.jpg",
+    "credit": "Miyuki Meinaka",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q100549885",
+    "variant": "original",
+    "file": "build/photos/Q100549885-original.jpg",
+    "key": "photos/Q100549885-original.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tochigi_Float_Museum.jpg",
+    "credit": "Miyuki Meinaka",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q101001030",
+    "variant": "thumb",
+    "file": "build/photos/Q101001030-thumb.jpg",
+    "key": "photos/Q101001030-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Crafts_Museum_in_Kanazawa_20201116-001.jpg",
+    "credit": "J o",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q101001030",
+    "variant": "original",
+    "file": "build/photos/Q101001030-original.jpg",
+    "key": "photos/Q101001030-original.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:National_Crafts_Museum_in_Kanazawa_20201116-001.jpg",
+    "credit": "J o",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q101086086",
+    "variant": "thumb",
+    "file": "build/photos/Q101086086-thumb.jpg",
+    "key": "photos/Q101086086-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E9%AB%98%E5%B2%A1%E3%81%AE%E6%A3%AE%E5%BC%98%E5%89%8D%E8%97%A9%E6%AD%B4%E5%8F%B2%E9%A4%A8.jpg",
+    "credit": "東京の花売娘",
+    "license": "CC0"
+  },
+  {
+    "id": "Q101086086",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "Q101096659",
+    "variant": "thumb",
+    "file": "build/photos/Q101096659-thumb.jpg",
+    "key": "photos/Q101096659-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hadano_City_Historical_Museum_ac_(1).jpg",
+    "credit": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q101096659",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "Q102045484",
+    "variant": "thumb",
+    "file": "build/photos/Q102045484-thumb.jpg",
+    "key": "photos/Q102045484-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Fukuda_art_museum.jpg",
+    "credit": "運動会プロテインパワー",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q102045484",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "Q102240298",
+    "variant": "thumb",
+    "file": "build/photos/Q102240298-thumb.jpg",
+    "key": "photos/Q102240298-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Suzuki_Bokushi_Memorial_Hall.JPG",
+    "credit": "Abasaa",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q102240298",
+    "variant": "original",
+    "file": "build/photos/Q102240298-original.jpg",
+    "key": "photos/Q102240298-original.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Suzuki_Bokushi_Memorial_Hall.JPG",
+    "credit": "Abasaa",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q102427225",
+    "variant": "thumb",
+    "file": "build/photos/Q102427225-thumb.jpg",
+    "key": "photos/Q102427225-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Verkehr_Shimizu_Port_Terminal_Museum_02.jpg",
+    "credit": "Halowand",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q102427225",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "Q102442450",
+    "variant": "thumb",
+    "file": "build/photos/Q102442450-thumb.jpg",
+    "key": "photos/Q102442450-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shiozawa_Tsumugi_Pavilion.JPG",
+    "credit": "Abasaa",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q102442450",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "Q10333378",
+    "variant": "thumb",
+    "file": "build/photos/Q10333378-thumb.jpg",
+    "key": "photos/Q10333378-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ainu_Museum_building.JPG",
+    "credit": "Abasaa",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q10333378",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "Q104082588",
+    "variant": "thumb",
+    "file": "build/photos/Q104082588-thumb.jpg",
+    "key": "photos/Q104082588-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Safari_museum.jpg",
+    "credit": "Motokoka",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104082588",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests (f061ab2)"
+  },
+  {
+    "id": "Q104103957",
+    "variant": "thumb",
+    "file": "build/photos/Q104103957-thumb.jpg",
+    "key": "photos/Q104103957-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:ROMANCECAR_MUSEUM_20210423.jpg",
+    "credit": "Kaze315",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104103957",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q1041232",
+    "variant": "thumb",
+    "file": "build/photos/Q1041232-thumb.jpg",
+    "key": "photos/Q1041232-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokorozawa_Aviation_Museum_in_Koku-koen_park_060910.jpg",
+    "credit": "Tokoroten",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q1041232",
+    "variant": "original",
+    "file": "build/photos/Q1041232-original.jpg",
+    "key": "photos/Q1041232-original.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokorozawa_Aviation_Museum_in_Koku-koen_park_060910.jpg",
+    "credit": "Tokoroten",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q104205678",
+    "variant": "thumb",
+    "file": "build/photos/Q104205678-thumb.jpg",
+    "key": "photos/Q104205678-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kamifuranocho_Folk_Museum_Kamifurano_Hokkaido_Japan01s.jpg",
+    "credit": "663highland",
+    "license": "CC BY 2.5"
+  },
+  {
+    "id": "Q104205678",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104236548",
+    "variant": "thumb",
+    "file": "build/photos/Q104236548-thumb.jpg",
+    "key": "photos/Q104236548-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E9%BB%84%E9%87%91%E8%B2%9D%E5%A1%9A%E6%83%85%E5%A0%B1%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC.jpg",
+    "credit": "Indiana jo",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104236548",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104236770",
+    "variant": "thumb",
+    "file": "build/photos/Q104236770-thumb.jpg",
+    "key": "photos/Q104236770-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Obihiro_Racecourse_Museum_of_Horses.jpg",
+    "credit": "Ozizo",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q104236770",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104238072",
+    "variant": "thumb",
+    "file": "build/photos/Q104238072-thumb.jpg",
+    "key": "photos/Q104238072-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Hoshi_no_furu_Hyakunen_Museum.jpg",
+    "credit": "Him56",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "id": "Q104238072",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104239002",
+    "variant": "thumb",
+    "file": "build/photos/Q104239002-thumb.jpg",
+    "key": "photos/Q104239002-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yubetsu-Furusato-JRY.JPG",
+    "credit": "RJD",
+    "license": "CC BY 3.0"
+  },
+  {
+    "id": "Q104239002",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104239410",
+    "variant": "thumb",
+    "file": "build/photos/Q104239410-thumb.jpg",
+    "key": "photos/Q104239410-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Akkeshi_Maritime_Museum.jpg",
+    "credit": "Yauchi",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104239410",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104243226",
+    "variant": "thumb",
+    "file": "build/photos/Q104243226-thumb.jpg",
+    "key": "photos/Q104243226-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:TDK_Museum.jpg",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104243226",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q1043816",
+    "variant": "thumb",
+    "file": "build/photos/Q1043816-thumb.jpg",
+    "key": "photos/Q1043816-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Oyama_City_Museum_01.JPG",
+    "credit": "Abasaa",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q1043816",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104575353",
+    "variant": "thumb",
+    "file": "build/photos/Q104575353-thumb.jpg",
+    "key": "photos/Q104575353-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Matsumoto_Folkcraft_Museum.jpg",
+    "credit": "photo: Qurren (talk) Taken with Canon IXY 10S (Digital IXUS 210)",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "id": "Q104575353",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104575526",
+    "variant": "thumb",
+    "file": "build/photos/Q104575526-thumb.jpg",
+    "key": "photos/Q104575526-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:%E8%B3%87%E7%94%9F%E5%A0%82%E4%BC%81%E6%A5%AD%E8%B3%87%E6%96%99%E9%A4%A8.jpg",
+    "credit": "Halowand",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104575526",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104575629",
+    "variant": "thumb",
+    "file": "build/photos/Q104575629-thumb.jpg",
+    "key": "photos/Q104575629-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Shiseido_Art_House_Museum.jpg",
+    "credit": "Halowand",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104575629",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104636664",
+    "variant": "thumb",
+    "file": "build/photos/Q104636664-thumb.jpg",
+    "key": "photos/Q104636664-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ninomaru_Museum_of_Art.JPG",
+    "credit": "Abasaa",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q104636664",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104661157",
+    "variant": "thumb",
+    "file": "build/photos/Q104661157-thumb.jpg",
+    "key": "photos/Q104661157-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kadokawa_Culture_Museum_at_Tokorozawa_Sakura_Town_(50608208297).jpg",
+    "credit": "Photo credit: Scott Kouchi",
+    "license": "CC BY 2.0"
+  },
+  {
+    "id": "Q104661157",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696239",
+    "variant": "thumb",
+    "file": "build/photos/Q104696239-thumb.jpg",
+    "key": "photos/Q104696239-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Treasure_museum_of_Kushihiki_Hachiman-gu.jpg",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696239",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696287",
+    "variant": "thumb",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696287",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696289",
+    "variant": "thumb",
+    "file": "build/photos/Q104696289-thumb.jpg",
+    "key": "photos/Q104696289-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tono_municipal_museum02s3200.jpg",
+    "credit": "663highland",
+    "license": "CC BY 2.5"
+  },
+  {
+    "id": "Q104696289",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696299",
+    "variant": "thumb",
+    "file": "build/photos/Q104696299-thumb.jpg",
+    "key": "photos/Q104696299-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yahaba-cho_Folk_Historical_Material_Hall.jpg",
+    "credit": "妖精書士",
+    "license": "CC0"
+  },
+  {
+    "id": "Q104696299",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696352",
+    "variant": "thumb",
+    "file": "build/photos/Q104696352-thumb.jpg",
+    "key": "photos/Q104696352-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sakiyama_Shell_midden_sites_museum,_Miyako.jpg",
+    "credit": "Ty19080914",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696352",
+    "variant": "original",
+    "file": "build/photos/Q104696352-original.jpg",
+    "key": "photos/Q104696352-original.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Sakiyama_Shell_midden_sites_museum,_Miyako.jpg",
+    "credit": "Ty19080914",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696357",
+    "variant": "thumb",
+    "file": "build/photos/Q104696357-thumb.jpg",
+    "key": "photos/Q104696357-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Mask_request_by_Sendai_castle_museum.jpg",
+    "credit": "Indiana jo",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696357",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696366",
+    "variant": "thumb",
+    "file": "build/photos/Q104696366-thumb.jpg",
+    "key": "photos/Q104696366-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Watari_Yuri-kan.jpg",
+    "credit": "Piccolo",
+    "license": "CC BY 3.0"
+  },
+  {
+    "id": "Q104696366",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696376",
+    "variant": "thumb",
+    "file": "build/photos/Q104696376-thumb.jpg",
+    "key": "photos/Q104696376-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yurihonjo_municipal_historical_museum.jpg",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696376",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696379",
+    "variant": "thumb",
+    "file": "build/photos/Q104696379-thumb.jpg",
+    "key": "photos/Q104696379-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yokote_Municipal_Museum_for_the_battle_of_Gosannen.jpg",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696379",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696380",
+    "variant": "thumb",
+    "file": "build/photos/Q104696380-thumb.jpg",
+    "key": "photos/Q104696380-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Wakami_Furusato_Museum.jpg",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696380",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696381",
+    "variant": "thumb",
+    "file": "build/photos/Q104696381-thumb.jpg",
+    "key": "photos/Q104696381-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Akita_City_History_Museum_of_Akita_Fort_Ruins.jpg",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696381",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696382",
+    "variant": "thumb",
+    "file": "build/photos/Q104696382-thumb.jpg",
+    "key": "photos/Q104696382-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Yonezawa_Folk_Crafts_Museum.JPG",
+    "credit": "Abasaa",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q104696382",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696383",
+    "variant": "thumb",
+    "file": "build/photos/Q104696383-thumb.jpg",
+    "key": "photos/Q104696383-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Taih%C5%8D-kan_(Tsuruoka).jpg",
+    "credit": "掬茶",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696383",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696506",
+    "variant": "thumb",
+    "file": "build/photos/Q104696506-thumb.jpg",
+    "key": "photos/Q104696506-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Inawashiromachi.JPG",
+    "credit": "ToshiJapon",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696506",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696762",
+    "variant": "thumb",
+    "file": "build/photos/Q104696762-thumb.jpg",
+    "key": "photos/Q104696762-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Ninomiya_Sontoku_Memorial_in_Nikko_Imaichi.jpg",
+    "credit": "Miyuki Meinaka",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696762",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696766",
+    "variant": "thumb",
+    "file": "build/photos/Q104696766-thumb.jpg",
+    "key": "photos/Q104696766-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Kuzuu_Folk_Art_%26_Crafts_Museum.JPG",
+    "credit": "Abasaa",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q104696766",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696769",
+    "variant": "thumb",
+    "file": "build/photos/Q104696769-thumb.jpg",
+    "key": "photos/Q104696769-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Treasure_house_of_Rinnoji_Temple.JPG",
+    "credit": "そらみみ",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "id": "Q104696769",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696771",
+    "variant": "thumb",
+    "file": "build/photos/Q104696771-thumb.jpg",
+    "key": "photos/Q104696771-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Tsukada_Memorial_Hall.JPG",
+    "credit": "Abasaa",
+    "license": "Public domain"
+  },
+  {
+    "id": "Q104696771",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696774",
+    "variant": "thumb",
+    "file": "build/photos/Q104696774-thumb.jpg",
+    "key": "photos/Q104696774-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Museum_Of_Earrings.jpg",
+    "credit": "photo: Qurren (talk) Taken with Canon IXY 430F (Digital IXUS 245 HS)",
+    "license": "CC BY-SA 3.0"
+  },
+  {
+    "id": "Q104696774",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  },
+  {
+    "id": "Q104696778",
+    "variant": "thumb",
+    "file": "build/photos/Q104696778-thumb.jpg",
+    "key": "photos/Q104696778-thumb.jpg",
+    "mime": "image/jpeg",
+    "source": "https://commons.wikimedia.org/wiki/File:Nakanojo_Museum_of_Folk_and_History_2.jpg",
+    "credit": "photo: Qurren (talk) Taken with Canon PowerShot G9 X",
+    "license": "CC BY-SA 4.0"
+  },
+  {
+    "id": "Q104696778",
+    "variant": "original",
+    "error": "HTTP Error 429: Too many requests - please contact noc@wikimedia.org to discuss a less disruptive approach or instead use thumbnail images in sizes listed on https://w.wiki/GHai. (0c640b1)"
+  }
+]

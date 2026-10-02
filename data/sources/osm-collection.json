@@ -1,0 +1,251 @@
+[
+  {
+    "prefecture": "北海道",
+    "prefectureCode": 1,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 1120,
+    "snapshot": "2026-09-27T06:52:06Z",
+    "sha256": "98b95fe4e8ab332bc71c9f3ccbf401304dffb1eb684b2d760df807512ad81de3"
+  },
+  {
+    "prefecture": "青森県",
+    "prefectureCode": 2,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 236,
+    "snapshot": "2026-09-27T06:53:05Z",
+    "sha256": "17c8614694904cd248ccf527f2b1877814e58f33ae16a5d5c05f8f68d2f7dd08"
+  },
+  {
+    "prefecture": "岩手県",
+    "prefectureCode": 3,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 191,
+    "snapshot": "2026-09-27T06:53:05Z",
+    "sha256": "eef60a7349a7245d95890293900d52fe7690015b9d46df51c6506061f1e6b4dd"
+  },
+  {
+    "prefecture": "宮城県",
+    "prefectureCode": 4,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 703,
+    "snapshot": "2026-09-27T06:59:18Z",
+    "sha256": "69fd25e87edd37b8edf14116fdc8450131572445ac47a1bb329c3bf448c56d8d"
+  },
+  {
+    "prefecture": "秋田県",
+    "prefectureCode": 5,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 362,
+    "snapshot": "2026-09-27T06:50:02Z",
+    "sha256": "0979d0a34cbcf5a35e8682ced994cd25c02480146f7d6081d81978592a398c99"
+  },
+  {
+    "prefecture": "山形県",
+    "prefectureCode": 6,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 251,
+    "snapshot": "2026-09-27T06:50:02Z",
+    "sha256": "1910d59d2a0a21b93f39888d68f62794d63ee8a30dc91fbcb3e7c1a4cfda17bf"
+  },
+  {
+    "prefecture": "福島県",
+    "prefectureCode": 7,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 283,
+    "snapshot": "2026-09-27T06:50:02Z",
+    "sha256": "8344b90125791feb1ed7fdca931f1e33c6bb4d6a634af89a05649af64e18a31d"
+  },
+  {
+    "prefecture": "茨城県",
+    "prefectureCode": 8,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 230,
+    "snapshot": "2026-09-27T06:53:05Z",
+    "sha256": "03423dd99f10c259e2251fea9bd5da42782b40c7d01e146fcc3271eb122cc89f"
+  },
+  {
+    "prefecture": "栃木県",
+    "prefectureCode": 9,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 300,
+    "snapshot": "2026-09-27T06:51:02Z",
+    "sha256": "b736daf96246c88e04a9330296f9b9f9f89315c5ea5bfe957834ca109731eb3f"
+  },
+  {
+    "prefecture": "群馬県",
+    "prefectureCode": 10,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 255,
+    "snapshot": "2026-09-27T06:51:02Z",
+    "sha256": "7e92ce72979ad1399325b72533fc526852b79964d3cba9e5a8e6b20c0af57f94"
+  },
+  {
+    "prefecture": "埼玉県",
+    "prefectureCode": 11,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 367,
+    "snapshot": "2026-09-27T06:51:02Z",
+    "sha256": "2a68fff3ff630a42cb1df7cc7b73fba18c14dbfad676858bfcaf6e12f032f2c9"
+  },
+  {
+    "prefecture": "千葉県",
+    "prefectureCode": 12,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 553,
+    "snapshot": "2026-09-27T06:54:03Z",
+    "sha256": "763b42eb38d270d4a0b5ad2d4168dd0f00e18e4bea44b659127640c388ee9f2a"
+  },
+  {
+    "prefecture": "東京都",
+    "prefectureCode": 13,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 1255,
+    "snapshot": "2026-09-27T06:51:02Z",
+    "sha256": "3b300ad04cfb8eeaf80557616058870109a9052ba0976a849084413924a475f8"
+  },
+  {
+    "prefecture": "神奈川県",
+    "prefectureCode": 14,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 625,
+    "snapshot": "2026-09-27T06:52:06Z",
+    "sha256": "4bd48954c109a10381810fcb0cc090abff46076fe0b11a337537cd9d446ca524"
+  },
+  {
+    "prefecture": "福井県",
+    "prefectureCode": 18,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "Legacy prefectural area query; archive retained",
+    "license": "ODbL 1.0",
+    "status": "collected",
+    "accepted": 196,
+    "snapshot": "2026-09-27T07:00:20Z",
+    "sha256": "0ecff8610ca1a6852b439ba13573180ff5865d985accdbd3f7a22a7a51073e67"
+  },
+  {
+    "prefecture": "鳥取県",
+    "prefectureCode": 31,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:25];nwr[\"tourism\"][\"name\"](35.057678,133.136283,35.61458843915161,134.515371);out center tags;",
+    "license": "ODbL 1.0",
+    "status": "error",
+    "error": "HTTP Error 504: Gateway Timeout"
+  },
+  {
+    "prefecture": "新潟県",
+    "prefectureCode": 15,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:25];nwr[\"tourism\"][\"name\"](36.736554,137.63498198547947,38.553587,139.899887);out center tags;",
+    "license": "ODbL 1.0",
+    "boundarySource": "https://www.geoboundaries.org/api/current/gbOpen/JPN/ADM1/",
+    "boundaryYear": 2017,
+    "status": "collected",
+    "accepted": 320,
+    "snapshot": "2026-09-27T07:05:18Z",
+    "sha256": "873923bb7d7e7ccb38e20aac5153454d209d28dfb363235712ac14d7c5ef3124"
+  },
+  {
+    "prefecture": "富山県",
+    "prefectureCode": 16,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:25];nwr[\"tourism\"][\"name\"](36.274365,136.768379,36.979749090640965,137.762439);out center tags;",
+    "license": "ODbL 1.0",
+    "boundarySource": "https://www.geoboundaries.org/api/current/gbOpen/JPN/ADM1/",
+    "boundaryYear": 2017,
+    "status": "collected",
+    "accepted": 185,
+    "snapshot": "2026-09-27T07:05:18Z",
+    "sha256": "77e24d8d2a058e66bf765b4b739ed7ad056aaf9a3eb3e74d0a7d72c0ee855418"
+  },
+  {
+    "prefecture": "石川県",
+    "prefectureCode": 17,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:25];nwr[\"tourism\"][\"name\"](36.067229,136.2440524088097,37.533427,137.360429);out center tags;",
+    "license": "ODbL 1.0",
+    "status": "error",
+    "error": "HTTP Error 504: Gateway Timeout"
+  },
+  {
+    "prefecture": "山梨県",
+    "prefectureCode": 19,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:25];nwr[\"tourism\"][\"name\"](35.168384,138.180103,35.971421,139.134411);out center tags;",
+    "license": "ODbL 1.0",
+    "status": "error",
+    "error": "HTTP Error 504: Gateway Timeout"
+  },
+  {
+    "prefecture": "長野県",
+    "prefectureCode": 20,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:25];nwr[\"tourism\"][\"name\"](35.198428,137.324551,37.030423,138.739252);out center tags;",
+    "license": "ODbL 1.0",
+    "status": "error",
+    "error": "HTTP Error 504: Gateway Timeout"
+  },
+  {
+    "prefecture": "岐阜県",
+    "prefectureCode": 21,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:25];nwr[\"tourism\"][\"name\"](35.133729,136.276225,36.464997,137.653054);out center tags;",
+    "license": "ODbL 1.0",
+    "boundarySource": "https://www.geoboundaries.org/api/current/gbOpen/JPN/ADM1/",
+    "boundaryYear": 2017,
+    "status": "collected",
+    "accepted": 388,
+    "snapshot": "2026-09-27T07:06:18Z",
+    "sha256": "bb116426d878cbe0fdc109135c8d05182ced5b5a51abbb969ffa1de63170888a"
+  },
+  {
+    "prefecture": "静岡県",
+    "prefectureCode": 22,
+    "source": "https://overpass-api.de/api/interpreter",
+    "query": "[out:json][timeout:25];nwr[\"tourism\"][\"name\"](34.594657,137.474107,35.645897,139.148721);out center tags;",
+    "license": "ODbL 1.0",
+    "status": "error",
+    "error": "HTTP Error 504: Gateway Timeout"
+  }
+]

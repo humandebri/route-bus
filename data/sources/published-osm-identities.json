@@ -1,0 +1,1563 @@
+{
+  "source": "https://download.geofabrik.de/asia/japan.html",
+  "license": "ODbL 1.0",
+  "records": {
+    "osm-node-165005871": {
+      "wikidata": "Q1048234",
+      "wikipedia": "ja:上高地",
+      "name": "上高地"
+    },
+    "osm-node-266977554": {
+      "wikidata": "Q11657511",
+      "wikipedia": "ja:阿波十郎兵衛屋敷",
+      "name": "阿波十郎兵衛屋敷"
+    },
+    "osm-node-462263857": {
+      "wikidata": "Q11661106",
+      "wikipedia": "ja:青函トンネル記念館",
+      "name": "青函トンネル記念館"
+    },
+    "osm-node-568918944": {
+      "wikidata": "Q28691992",
+      "wikipedia": "ja:美郷ほたる館",
+      "name": "美郷ほたる館"
+    },
+    "osm-node-683765481": {
+      "wikidata": "Q1002193",
+      "wikimedia_commons": "Category:Shirakawa-go",
+      "wikipedia": "ja:白川郷",
+      "name": "白川郷"
+    },
+    "osm-node-1240679016": {
+      "wikidata": "Q11517161",
+      "wikipedia": "ja:望郷の塔",
+      "name": "オーロラタワー"
+    },
+    "osm-node-1319911990": {
+      "wikidata": "Q11651430",
+      "wikipedia": "ja:長久手市郷土資料室",
+      "name": "長久手市郷土資料室"
+    },
+    "osm-node-1420198974": {
+      "wikidata": "Q104696832",
+      "name": "熊谷市立図書館美術・郷土資料展示室"
+    },
+    "osm-node-1420725043": {
+      "wikidata": "Q105188779",
+      "wikipedia": "ja:伊能忠敬記念館",
+      "name": "伊能忠敬記念館"
+    },
+    "osm-node-1420743883": {
+      "wikidata": "Q553044",
+      "wikipedia": "ja:鴨川シーワールド",
+      "name": "鴨川シーワールド"
+    },
+    "osm-node-1420917910": {
+      "wikidata": "Q11674043",
+      "wikipedia": "ja:魚津歴史民俗博物館",
+      "name": "魚津歴史民俗博物館"
+    },
+    "osm-node-1420933409": {
+      "wikidata": "Q11585931",
+      "wikipedia": "ja:石川県ふれあい昆虫館",
+      "name": "石川県ふれあい昆虫館"
+    },
+    "osm-node-1420945298": {
+      "wikidata": "Q11400239",
+      "name": "勝山城博物館"
+    },
+    "osm-node-1420949280": {
+      "wikidata": "Q11591305",
+      "name": "福井市愛宕坂茶道美術館"
+    },
+    "osm-node-1420949290": {
+      "wikidata": "Q11591308",
+      "name": "福井市橘曙覧記念文学館"
+    },
+    "osm-node-1420949543": {
+      "wikidata": "Q3247157",
+      "wikipedia": "ja:福井県立恐竜博物館",
+      "name": "福井県立恐竜博物館"
+    },
+    "osm-node-1420949924": {
+      "wikidata": "Q11636428",
+      "name": "越前松島水族館"
+    },
+    "osm-node-1420975633": {
+      "wikidata": "Q11340103",
+      "name": "マコンデ美術館"
+    },
+    "osm-node-1420976560": {
+      "wikidata": "Q11526757",
+      "wikipedia": "ja:東山魁夷 心の旅路館",
+      "name": "中津川市東山魁夷心の旅路館"
+    },
+    "osm-node-1420978520": {
+      "wikidata": "Q11410886",
+      "wikipedia": "ja:古今伝授の里フィールドミュージアム",
+      "name": "古今伝授の里フィールドミュージアム"
+    },
+    "osm-node-1420980910": {
+      "wikidata": "Q11436188",
+      "wikipedia": "ja:大松美術館",
+      "name": "大松美術館"
+    },
+    "osm-node-1420982531": {
+      "wikidata": "Q11471469",
+      "wikipedia": "ja:岐阜県現代陶芸美術館",
+      "name": "岐阜県現代陶芸美術館"
+    },
+    "osm-node-1420982569": {
+      "wikidata": "Q11471861",
+      "wikipedia": "ja:多治見市美濃焼ミュージアム",
+      "name": "岐阜県陶磁資料館"
+    },
+    "osm-node-1420988719": {
+      "wikidata": "Q111836641",
+      "wikipedia": "ja:心の森ミュージアム 遊童館",
+      "name": "心の森ミュージアム遊童館"
+    },
+    "osm-node-1420989042": {
+      "wikidata": "Q111218301",
+      "wikimedia_commons": "Category:Kusakabe House",
+      "wikipedia": "ja:日下部民藝館",
+      "name": "日下部民藝館"
+    },
+    "osm-node-1420992984": {
+      "wikidata": "Q11558616",
+      "wikipedia": "ja:海の博物館 (鳥羽市)",
+      "name": "海の博物館"
+    },
+    "osm-node-1420993070": {
+      "wikidata": "Q11559022",
+      "wikimedia_commons": "Category:Kaizu City Museum",
+      "wikipedia": "ja:木曽三川輪中ミュージアム",
+      "name": "木曽三川輪中ミュージアム"
+    },
+    "osm-node-1420997236": {
+      "wikidata": "Q48748510",
+      "wikipedia": "ja:白山文化博物館",
+      "name": "白山文化博物館"
+    },
+    "osm-node-1420999711": {
+      "wikidata": "Q11610104",
+      "wikimedia_commons": "Category:Hashima Folk History Museum, Hashima Movie Museum",
+      "wikipedia": "ja:羽島市歴史民俗資料館・羽島市映画資料館",
+      "name": "羽島市歴史民俗資料館・羽島市映画資料館"
+    },
+    "osm-node-1421000405": {
+      "wikidata": "Q11622863",
+      "wikipedia": "ja:藤井美術民芸館",
+      "name": "藤井美術民芸館"
+    },
+    "osm-node-1421000876": {
+      "wikidata": "Q18460180",
+      "wikipedia": "ja:輪中の郷",
+      "name": "輪中の郷"
+    },
+    "osm-node-1421001173": {
+      "wikidata": "Q48748520",
+      "wikipedia": "ja:郡上八幡博覧館",
+      "name": "郡上八幡博覧館"
+    },
+    "osm-node-1421002671": {
+      "wikidata": "Q11665929",
+      "wikipedia": "ja:飛騨高山美術館",
+      "name": "飛騨高山美術館"
+    },
+    "osm-node-1421002672": {
+      "wikidata": "Q57312937",
+      "wikipedia": "ja:茶の湯美術館",
+      "name": "飛騨高山茶の湯の森"
+    },
+    "osm-node-1422945982": {
+      "wikidata": "Q1268542",
+      "wikipedia": "ja:MIHO MUSEUM",
+      "name": "ミホミュージアム"
+    },
+    "osm-node-1423051676": {
+      "wikidata": "Q7456748",
+      "wikipedia": "ja:京都大学フィールド科学教育研究センター瀬戸臨海実験所水族館",
+      "name": "京都大学フィールド科学教育研究センター瀬戸臨海実験所水族館（京都大学白浜水族館）"
+    },
+    "osm-node-1423053107": {
+      "wikidata": "Q11386562",
+      "wikipedia": "ja:倉吉博物館・倉吉歴史民俗資料館",
+      "name": "倉吉博物館"
+    },
+    "osm-node-1423055572": {
+      "wikidata": "Q11407875",
+      "name": "南方熊楠記念館"
+    },
+    "osm-node-1423069860": {
+      "wikidata": "Q11534562",
+      "wikipedia": "ja:柳田國男・松岡家顕彰会記念館",
+      "name": "柳田國男・松岡家顕彰会記念館"
+    },
+    "osm-node-1423071955": {
+      "wikidata": "Q97539508",
+      "wikipedia": "ja:淡路ファームパーク イングランドの丘",
+      "name": "淡路ファームパークイングランドの丘"
+    },
+    "osm-node-1423091595": {
+      "wikidata": "Q11426143",
+      "wikipedia": "ja:城崎町文芸館",
+      "name": "豊岡市立城崎文芸館"
+    },
+    "osm-node-1423096537": {
+      "wikidata": "Q7828506",
+      "wikipedia": "ja:鳥取二十世紀梨記念館",
+      "name": "鳥取県立鳥取二十世紀梨記念館"
+    },
+    "osm-node-1423609042": {
+      "wikidata": "Q11387350",
+      "wikimedia_commons": "Category:Bizen Osafune Sword Museum",
+      "wikipedia": "ja:備前長船刀剣博物館",
+      "name": "備前長船刀剣博物館"
+    },
+    "osm-node-1423609256": {
+      "wikidata": "Q132613645",
+      "name": "勝央美術文学館"
+    },
+    "osm-node-1423660885": {
+      "wikidata": "Q11622548",
+      "name": "藍住町歴史館・藍の館"
+    },
+    "osm-node-1423661426": {
+      "wikidata": "Q4829638",
+      "wikipedia": "ja:阿波おどり会館",
+      "name": "阿波おどり会館・阿波おどりミュージアム"
+    },
+    "osm-node-1423707178": {
+      "wikidata": "Q11364323",
+      "name": "中岡慎太郎館"
+    },
+    "osm-node-1423707261": {
+      "wikidata": "Q11367991",
+      "wikipedia": "ja:丸亀市猪熊弦一郎現代美術館",
+      "name": "丸亀市猪熊弦一郎現代美術館"
+    },
+    "osm-node-1423707275": {
+      "wikidata": "Q11368005",
+      "name": "丸亀市立資料館"
+    },
+    "osm-node-1423732303": {
+      "wikidata": "Q3541354",
+      "wikipedia": "en:Tosa Yamauchi Family Treasury and Archives",
+      "name": "土佐山内家宝物資料館"
+    },
+    "osm-node-1423733994": {
+      "wikidata": "Q123472808",
+      "name": "安芸市立書道美術館"
+    },
+    "osm-node-1423734251": {
+      "wikidata": "Q123472706",
+      "name": "宿毛市立宿毛歴史館"
+    },
+    "osm-node-1423747784": {
+      "wikidata": "Q11672372",
+      "name": "高知市立龍馬の生まれたまち記念館"
+    },
+    "osm-node-1423748112": {
+      "wikidata": "Q11672466",
+      "name": "高知県立歴史民俗資料館"
+    },
+    "osm-node-1423776845": {
+      "wikidata": "Q68488330",
+      "wikipedia": "en:Kubote Historical Museum",
+      "name": "求菩提資料館"
+    },
+    "osm-node-1423802055": {
+      "wikidata": "Q11443445",
+      "name": "天草市立天草切支丹館"
+    },
+    "osm-node-1423808143": {
+      "wikidata": "Q11567967",
+      "wikipedia": "ja:熊本国際民藝館",
+      "name": "熊本国際民藝館"
+    },
+    "osm-node-1423808453": {
+      "wikidata": "Q11568122",
+      "wikipedia": "ja:熊本市立熊本博物館",
+      "name": "熊本市立熊本博物館"
+    },
+    "osm-node-1423808780": {
+      "wikidata": "Q4556482",
+      "name": "熊本県立美術館"
+    },
+    "osm-node-1423950532": {
+      "wikidata": "Q1089458",
+      "wikimedia_commons": "Category:Nagoya City Archives",
+      "wikipedia": "ja:名古屋市市政資料館",
+      "name": "名古屋市市政資料館"
+    },
+    "osm-node-1423951244": {
+      "wikidata": "Q11415659",
+      "wikipedia": "ja:名都美術館",
+      "name": "名都美術館"
+    },
+    "osm-node-1423986846": {
+      "wikidata": "Q104720628",
+      "wikipedia": "ja:設楽原歴史資料館",
+      "name": "新城市設楽原歴史資料館"
+    },
+    "osm-node-1423989362": {
+      "wikidata": "Q11539869",
+      "wikipedia": "ja:森村記念館",
+      "name": "森村記念館"
+    },
+    "osm-node-1423996221": {
+      "wikidata": "Q11608844",
+      "wikimedia_commons": "Category:Miwa Historical Museum",
+      "wikipedia": "ja:あま市美和歴史民俗資料館",
+      "name": "あま市美和歴史民俗資料館"
+    },
+    "osm-node-1493825968": {
+      "wikidata": "Q131631141",
+      "name": "Benesse House Beach"
+    },
+    "osm-node-1890197013": {
+      "wikidata": "Q114017845",
+      "wikimedia_commons": "Category:Yoshijima Heritage House",
+      "wikipedia": "ja:吉島家住宅",
+      "name": "吉島家住宅"
+    },
+    "osm-node-2241643709": {
+      "wikidata": "Q11673387",
+      "wikimedia_commons": "Category:Onigajo (Kumano, Mie)",
+      "wikipedia": "ja:鬼ヶ城",
+      "name": "鬼ヶ城"
+    },
+    "osm-node-2291055940": {
+      "wikidata": "Q11454701",
+      "wikipedia": "ja:宮川朝市",
+      "name": "宮川朝市"
+    },
+    "osm-node-2344127990": {
+      "wikidata": "Q11662265",
+      "name": "青森県立郷土館 (Aomori Prefectural Museum)"
+    },
+    "osm-node-2400190736": {
+      "wikidata": "Q100348179",
+      "wikimedia_commons": "Category:Nagoya Citizens' Gallery Sakae",
+      "name": "名古屋市民ギャラリー栄"
+    },
+    "osm-node-2401060464": {
+      "wikidata": "Q6050127",
+      "wikipedia": "en:International Design Centre Nagoya",
+      "name": "国際デザインセンター"
+    },
+    "osm-node-2428108170": {
+      "wikidata": "Q104696344",
+      "name": "奥州市埋蔵文化財調査センター"
+    },
+    "osm-node-2484550916": {
+      "wikidata": "Q11598414",
+      "wikipedia": "ja:竜飛ウィンドパーク",
+      "name": "竜飛ウィンドパーク展示館"
+    },
+    "osm-node-2494582238": {
+      "wikidata": "Q11377845",
+      "wikipedia": "ja:仙台市戦災復興記念館",
+      "name": "仙台市戦災復興記念館"
+    },
+    "osm-node-2706119458": {
+      "wikidata": "Q125385956",
+      "name": "宮沢賢治記念館"
+    },
+    "osm-node-2706119527": {
+      "wikidata": "Q125386211",
+      "name": "宮沢賢治童話村"
+    },
+    "osm-node-2735395727": {
+      "wikidata": "Q120644751",
+      "wikipedia": "ja:奥州宇宙遊学館",
+      "name": "奥州宇宙遊学館"
+    },
+    "osm-node-2735410065": {
+      "wikidata": "Q139533836",
+      "name": "木村榮記念館"
+    },
+    "osm-node-3438493794": {
+      "wikidata": "Q107437301",
+      "wikipedia": "ja:花巻新渡戸記念館",
+      "name": "花巻新渡戸記念館"
+    },
+    "osm-node-3718178825": {
+      "wikidata": "Q28154087",
+      "wikipedia": "en:Nagoro",
+      "name": "かかしの里"
+    },
+    "osm-node-3769895563": {
+      "wikidata": "Q21653817",
+      "wikipedia": "ja:富山市ガラス美術館",
+      "name": "富山市ガラス美術館"
+    },
+    "osm-node-3906862678": {
+      "wikidata": "Q11679438",
+      "wikipedia": "ja:龍飛埼灯台",
+      "name": "龍飛埼灯台"
+    },
+    "osm-node-4045618965": {
+      "wikidata": "Q11534162",
+      "wikipedia": "ja:柳原銀行",
+      "name": "柳原銀行記念資料館"
+    },
+    "osm-node-4114320799": {
+      "wikidata": "Q3329081",
+      "wikipedia": "ja:おもちゃのまちバンダイミュージアム",
+      "name": "バンダイミュージアム"
+    },
+    "osm-node-4315863401": {
+      "wikidata": "Q11454001",
+      "wikipedia": "ja:宮城蔵王キツネ村",
+      "name": "宮城蔵王キツネ村"
+    },
+    "osm-node-4330952516": {
+      "wikidata": "Q11531031",
+      "wikipedia": "ja:松本市時計博物館",
+      "name": "松本市時計博物館"
+    },
+    "osm-node-4391170327": {
+      "wikidata": "Q30922332",
+      "name": "おさごえ民家園"
+    },
+    "osm-node-4395640418": {
+      "wikidata": "Q109370433",
+      "wikipedia": "ja:諏訪市美術館",
+      "name": "諏訪市美術館"
+    },
+    "osm-node-4485300889": {
+      "wikidata": "Q66087933",
+      "wikimedia_commons": "Category:Ainokura (Gokayama)",
+      "wikipedia": "ja:五箇山",
+      "name": "越中五箇山相倉集落"
+    },
+    "osm-node-4505567369": {
+      "wikidata": "Q11386562",
+      "wikipedia": "ja:倉吉博物館・倉吉歴史民俗資料館",
+      "name": "倉吉歴史民俗資料館"
+    },
+    "osm-node-4505589850": {
+      "wikidata": "Q11665996",
+      "wikipedia": "ja:飛龍閣",
+      "name": "飛龍閣"
+    },
+    "osm-node-4551744289": {
+      "wikidata": "Q66087934",
+      "wikimedia_commons": "Category:Suganuma (Gokayama)",
+      "wikipedia": "ja:五箇山",
+      "name": "越中五箇山菅沼集落"
+    },
+    "osm-node-4571243203": {
+      "wikidata": "Q11332823",
+      "name": "フォッサマグナミュージアム"
+    },
+    "osm-node-4571246230": {
+      "wikidata": "Q104708813",
+      "name": "糸魚川市長者ケ原考古館"
+    },
+    "osm-node-4583029374": {
+      "wikidata": "Q21653164",
+      "wikipedia": "ja:崎津集落",
+      "name": "崎津集落"
+    },
+    "osm-node-4583423112": {
+      "wikidata": "Q21652749",
+      "wikipedia": "ja:春日集落",
+      "name": "平戸の聖地と集落 (春日集落)"
+    },
+    "osm-node-4597854800": {
+      "wikidata": "Q11641340",
+      "wikipedia": "ja:道の駅東近江市あいとうマーガレットステーション",
+      "name": "道の駅　あいとうマーガレットステーション"
+    },
+    "osm-node-4690223539": {
+      "wikidata": "Q24087822",
+      "wikipedia": "ja:道の駅燕三条地場産センター",
+      "name": "道の駅 燕三条地場産センター"
+    },
+    "osm-node-4693003290": {
+      "wikidata": "Q11568021",
+      "wikipedia": "ja:熊本市現代美術館",
+      "name": "現代美術館"
+    },
+    "osm-node-4839361821": {
+      "wikidata": "Q7828504",
+      "wikipedia": "ja:鳥取民藝美術館",
+      "name": "鳥取民藝美術館"
+    },
+    "osm-node-5024056804": {
+      "wikidata": "Q28693175",
+      "wikipedia": "ja:酒田市立資料館",
+      "name": "酒田市立資料館"
+    },
+    "osm-node-5026244866": {
+      "wikidata": "Q48755105",
+      "wikipedia": "ja:相馬樓",
+      "name": "相馬樓"
+    },
+    "osm-node-5026257021": {
+      "wikidata": "Q11521018",
+      "wikipedia": "ja:本間美術館",
+      "name": "本間美術館"
+    },
+    "osm-node-5033219722": {
+      "wikidata": "Q11260150",
+      "wikipedia": "ja:いわき市暮らしの伝承郷",
+      "name": "暮らしの伝承郷"
+    },
+    "osm-node-5095096956": {
+      "wikidata": "Q11396288",
+      "wikipedia": "ja:刈谷市美術館",
+      "name": "刈谷市美術館"
+    },
+    "osm-node-5112313943": {
+      "wikidata": "Q85869646",
+      "wikipedia": "ja:やませ蔵美術館",
+      "name": "やませ蔵"
+    },
+    "osm-node-5130287224": {
+      "wikidata": "Q18336739",
+      "wikipedia": "ja:蟹仙洞",
+      "name": "蟹仙洞"
+    },
+    "osm-node-5134665840": {
+      "wikidata": "Q11500667",
+      "wikipedia": "ja:斎藤茂吉記念館",
+      "name": "斎藤茂吉記念館"
+    },
+    "osm-node-5146201595": {
+      "wikidata": "Q17226430",
+      "wikipedia": "ja:刈谷市郷土資料館",
+      "name": "刈谷市郷土資料館"
+    },
+    "osm-node-5336357024": {
+      "wikidata": "Q11325393",
+      "wikimedia_commons": "Category:NEX PLAZA",
+      "wikipedia": "ja:ネックス・プラザ",
+      "name": "ネックス・プラザ"
+    },
+    "osm-node-5414736531": {
+      "wikidata": "Q11557620",
+      "wikipedia": "ja:浜坂県民サンビーチ",
+      "name": "浜坂県民サンビーチ"
+    },
+    "osm-node-5537284721": {
+      "wikidata": "Q72183596",
+      "wikipedia": "ja:伊尾木洞",
+      "name": "伊尾木洞"
+    },
+    "osm-node-5603040088": {
+      "wikidata": "Q11443746",
+      "wikipedia": "ja:天門橋",
+      "name": "天門橋"
+    },
+    "osm-node-5603043152": {
+      "wikidata": "Q11641250",
+      "wikipedia": "ja:道の駅宇土マリーナ",
+      "name": "道の駅 宇土ﾏﾘｰﾅ"
+    },
+    "osm-node-5603129123": {
+      "wikidata": "Q7821526",
+      "wikipedia": "ja:トンカラリン",
+      "name": "トンカラリン"
+    },
+    "osm-node-5644929621": {
+      "wikidata": "Q11591310",
+      "name": "福井市水道記念館"
+    },
+    "osm-node-5645113821": {
+      "wikidata": "Q86744314",
+      "wikipedia": "ja:信州中野銅石版画ミュージアム",
+      "name": "信州中野銅石版画ミュージアム"
+    },
+    "osm-node-5745133223": {
+      "wikidata": "Q140158296",
+      "name": "高野長英記念館"
+    },
+    "osm-node-5759958428": {
+      "wikidata": "Q140158420",
+      "name": "斎藤實記念館"
+    },
+    "osm-node-5762464155": {
+      "wikidata": "Q123516594",
+      "wikipedia": "ja:長島記念館",
+      "name": "長島記念館"
+    },
+    "osm-node-5802905257": {
+      "wikidata": "Q123146797",
+      "name": "箱本館紺屋"
+    },
+    "osm-node-5829706887": {
+      "wikidata": "Q11267473",
+      "wikipedia": "ja:さいたま市立岩槻郷土資料館",
+      "name": "岩槻郷土資料館"
+    },
+    "osm-node-5861831990": {
+      "wikimedia_commons": "Category:D51 777 steam locomotive",
+      "name": "蒸気機関車D51 777"
+    },
+    "osm-node-5898813824": {
+      "wikidata": "Q38277897",
+      "wikipedia": "ja:吉村昭記念文学館",
+      "name": "吉村昭記念文学館"
+    },
+    "osm-node-6004661686": {
+      "wikimedia_commons": "File:兵庫県豊岡市気比の象岩.jpg",
+      "name": "ゾウ岩"
+    },
+    "osm-node-6130355236": {
+      "wikidata": "Q63565237",
+      "wikipedia": "ja:北野美術館",
+      "name": "北野美術館"
+    },
+    "osm-node-6166900797": {
+      "wikidata": "Q6202742",
+      "wikipedia": "ja:仁風閣",
+      "name": "仁風閣"
+    },
+    "osm-node-6272164191": {
+      "wikidata": "Q57744700",
+      "wikipedia": "ja:円形劇場くらよしフィギュアミュージアム",
+      "name": "円形劇場くらよしフィギュアミュージアム"
+    },
+    "osm-node-6272279841": {
+      "wikidata": "Q11386588",
+      "wikipedia": "ja:倉吉線鉄道記念館",
+      "name": "倉吉線鉄道記念館"
+    },
+    "osm-node-6344331355": {
+      "wikidata": "Q11634350",
+      "wikipedia": "ja:象山記念館",
+      "name": "象山記念館"
+    },
+    "osm-node-6385749931": {
+      "wikidata": "Q63435512",
+      "wikimedia_commons": "Category:KARIYA city Museum of History",
+      "wikipedia": "ja:刈谷市歴史博物館",
+      "name": "刈谷市歴史博物館"
+    },
+    "osm-node-6543300485": {
+      "wikidata": "Q55526676",
+      "wikipedia": "ja:樂翠亭美術館",
+      "name": "楽翠亭美術館"
+    },
+    "osm-node-6609197294": {
+      "wikidata": "Q11614936",
+      "wikipedia": "ja:芭蕉の辻",
+      "name": "芭蕉の辻"
+    },
+    "osm-node-6853147921": {
+      "wikidata": "Q11628672",
+      "wikipedia": "ja:西村記念館",
+      "name": "西村記念館"
+    },
+    "osm-node-7106704138": {
+      "wikidata": "Q79734934",
+      "wikipedia": "ja:塩尻市立平出博物館",
+      "name": "平出博物館"
+    },
+    "osm-node-7142416199": {
+      "wikimedia_commons": "Category:D51 663 steam locomotive",
+      "name": "蒸気機関車 D51 663"
+    },
+    "osm-node-7324599463": {
+      "wikidata": "Q11569266",
+      "wikipedia": "ja:燕市産業史料館",
+      "name": "燕市産業史料館"
+    },
+    "osm-node-7461106585": {
+      "wikidata": "Q11653569",
+      "name": "長者ヶ原廃寺跡"
+    },
+    "osm-node-7791143085": {
+      "wikidata": "Q4416112",
+      "wikipedia": "ja:仙台市天文台",
+      "name": "仙台市天文台"
+    },
+    "osm-node-7881407152": {
+      "wikidata": "Q11627232",
+      "wikipedia": "ja:西倉吉駅",
+      "name": "西倉吉駅跡"
+    },
+    "osm-node-8502616318": {
+      "wikidata": "Q135973129",
+      "name": "島川美術館"
+    },
+    "osm-node-8735832677": {
+      "wikidata": "Q11429510",
+      "wikipedia": "ja:壬生町おもちゃ博物館",
+      "name": "壬生町おもちゃ博物館"
+    },
+    "osm-node-8785700317": {
+      "wikidata": "Q11281777",
+      "wikipedia": "ja:わくわく海中水族館シードーナツ",
+      "name": "わくわく海中水族館シードーナツ"
+    },
+    "osm-node-9533728625": {
+      "wikidata": "Q111013371",
+      "wikipedia": "ja:たかす開拓記念館",
+      "name": "たかす開拓記念館"
+    },
+    "osm-node-9647801717": {
+      "wikipedia": "ja:文七元結",
+      "name": "元結（桜井）文七之墓"
+    },
+    "osm-node-9937122164": {
+      "wikidata": "Q11431582",
+      "wikipedia": "ja:夢千代館",
+      "image": "https://ja.wikipedia.org/wiki/%E5%A4%A2%E5%8D%83%E4%BB%A3%E9%A4%A8#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Yumechiyokan01s2048.jpg",
+      "name": "夢千代館"
+    },
+    "osm-node-9961090225": {
+      "wikidata": "Q132390958",
+      "name": "二ツ森貝塚館"
+    },
+    "osm-node-10304805412": {
+      "wikidata": "Q11457580",
+      "wikipedia": "ja:寝覚の床",
+      "name": "寝覚ノ床"
+    },
+    "osm-node-10801004187": {
+      "wikidata": "Q11531038",
+      "wikipedia": "ja:松本市立博物館",
+      "name": "松本市立博物館"
+    },
+    "osm-node-11652391305": {
+      "wikidata": "Q11423182",
+      "wikipedia": "ja:土居廓中",
+      "name": "安芸市土居廓中伝統的建造物群保存地区"
+    },
+    "osm-node-11834599480": {
+      "wikidata": "Q28691449",
+      "wikipedia": "ja:大里松原海岸",
+      "name": "大里松原海岸"
+    },
+    "osm-node-11949696957": {
+      "wikidata": "Q30935176",
+      "wikipedia": "ja:あいち航空ミュージアム",
+      "name": "あいち航空ミュージアム"
+    },
+    "osm-node-12003277976": {
+      "wikidata": "Q134690434",
+      "name": "スカイプロムナード"
+    },
+    "osm-node-12416004739": {
+      "wikidata": "Q11540171",
+      "wikipedia": "ja:旧森田銀行本店",
+      "name": "旧森田銀行本店"
+    },
+    "osm-node-12565032690": {
+      "image": "https://drive.google.com/file/d/1hwgTTMQl9JWD5NOdaY-dih9rwZmh4AIc/view?usp=drive_link",
+      "name": "頼山陽先生宿泊之跡"
+    },
+    "osm-node-12565046727": {
+      "image": "https://drive.google.com/file/d/1CDnOamcxqMk0RZfSzanwwABSIy5hPEKk/view?usp=drive_link",
+      "name": "五足の靴上陸地"
+    },
+    "osm-node-13016417467": {
+      "image": "https://drive.google.com/file/d/1VI_uYUvU72c2_54R4KUImChawpPM5LKG/view?usp=drive_link",
+      "name": "富岡の股のぞき台"
+    },
+    "osm-node-13104069715": {
+      "wikidata": "Q17190671",
+      "wikipedia": "ja:愛染カツラ (木)",
+      "name": "愛染カツラ"
+    },
+    "osm-node-13104069716": {
+      "wikidata": "Q11396788",
+      "wikipedia": "ja:別所温泉",
+      "name": "別所温泉"
+    },
+    "osm-node-14017254487": {
+      "wikimedia_commons": "Category:C11 167 steam locomotive",
+      "name": "C11 167"
+    },
+    "osm-node-14030051592": {
+      "wikimedia_commons": "Category:9600 steam locomotive 19648",
+      "name": "19648"
+    },
+    "osm-way-34876468": {
+      "wikidata": "Q11497122",
+      "wikipedia": "ja:手結港可動橋",
+      "name": "手結港可動橋"
+    },
+    "osm-way-115254673": {
+      "wikidata": "Q11261371",
+      "wikimedia_commons": "Category:Okage Yokocho",
+      "wikipedia": "ja:おかげ横丁",
+      "name": "おかげ横丁"
+    },
+    "osm-way-120075392": {
+      "wikidata": "Q11281997",
+      "name": "わんぱーくこうちアニマルランド"
+    },
+    "osm-way-138098524": {
+      "wikidata": "Q11275091",
+      "wikimedia_commons": "Category:Nebuta Museum Wa Rasse",
+      "wikipedia": "ja:ねぶたの家 ワ・ラッセ",
+      "name": "ねぶたの家 ワ・ラッセ"
+    },
+    "osm-way-138098525": {
+      "wikidata": "Q11661114",
+      "wikimedia_commons": "Category:Hakkoda Maru (ship, 1964)",
+      "wikipedia": "ja:青函連絡船メモリアルシップ八甲田丸",
+      "name": "青函連絡船メモリアルシップ 八甲田丸"
+    },
+    "osm-way-147856307": {
+      "wikidata": "Q469573",
+      "wikimedia_commons": "Category:Nagoya City Art Museum",
+      "wikipedia": "en:Nagoya City Art Museum",
+      "name": "名古屋市美術館"
+    },
+    "osm-way-150718102": {
+      "wikidata": "Q11554066",
+      "wikimedia_commons": "Category:Kappa Bridge",
+      "wikipedia": "ja:河童橋",
+      "image": "https://commons.wikimedia.org/wiki/File:150920_Kappa-bashi_Kamikochi_Japan01n.jpg",
+      "name": "河童橋"
+    },
+    "osm-way-161306394": {
+      "wikidata": "Q85875606",
+      "wikipedia": "ja:中野陣屋・県庁記念館",
+      "name": "中野陣屋県庁記念館"
+    },
+    "osm-way-183170616": {
+      "wikidata": "Q16669013",
+      "wikipedia": "ja:志摩スペイン村",
+      "name": "志摩スペイン村"
+    },
+    "osm-way-183967154": {
+      "wikidata": "Q1073067",
+      "wikipedia": "ja:鳥羽水族館",
+      "name": "鳥羽水族館"
+    },
+    "osm-way-198148142": {
+      "wikidata": "Q11456480",
+      "wikipedia": "ja:富山県民会館",
+      "name": "富山県民会館美術館"
+    },
+    "osm-way-198247843": {
+      "wikidata": "Q11456417",
+      "wikipedia": "ja:富山市郷土博物館",
+      "name": "富山市郷土博物館"
+    },
+    "osm-way-198247844": {
+      "wikidata": "Q11384443",
+      "wikipedia": "ja:佐藤記念美術館",
+      "name": "富山市佐藤記念美術館"
+    },
+    "osm-way-199752713": {
+      "wikidata": "Q6940951",
+      "wikipedia": "ja:富山県立近代美術館",
+      "name": "富山県立近代美術館 (Museum of Modern Art, Toyama)"
+    },
+    "osm-way-199752760": {
+      "wikidata": "Q21060996",
+      "wikipedia": "ja:TOYAMAキラリ",
+      "name": "TOYAMAキラリ"
+    },
+    "osm-way-199752772": {
+      "wikidata": "Q11456392",
+      "wikipedia": "ja:富山市科学博物館",
+      "name": "富山市科学博物館(Toyama Science Museum)"
+    },
+    "osm-way-200245418": {
+      "wikidata": "Q5357802",
+      "wikimedia_commons": "Category:Electricity Museum, Nagoya",
+      "wikipedia": "en:Electricity Museum, Nagoya",
+      "name": "でんきの科学館"
+    },
+    "osm-way-207471272": {
+      "wikidata": "Q91380712",
+      "wikipedia": "ja:木更津市郷土博物館金のすず",
+      "name": "木更津市郷土博物館金のすず"
+    },
+    "osm-way-218648052": {
+      "wikidata": "Q508866",
+      "wikipedia": "ja:今帰仁城",
+      "name": "今帰仁城"
+    },
+    "osm-way-226023934": {
+      "wikidata": "Q11273086",
+      "wikipedia": "ja:とくしまファミリーランド",
+      "name": "とくしま ファミリーランド"
+    },
+    "osm-way-226031840": {
+      "wikidata": "Q11273093",
+      "wikipedia": "ja:とくしま動物園",
+      "name": "とくしま動物園"
+    },
+    "osm-way-236248621": {
+      "wikidata": "Q11417969",
+      "wikimedia_commons": "Category:Wada-ke house",
+      "wikipedia": "ja:和田家住宅",
+      "name": "和田家住宅"
+    },
+    "osm-way-237487176": {
+      "wikidata": "Q11613941",
+      "wikipedia": "ja:航空館boon",
+      "name": "航空館boon"
+    },
+    "osm-way-240742820": {
+      "wikidata": "Q11669454",
+      "wikimedia_commons": "Category:Takayama Jinya",
+      "wikipedia": "ja:高山陣屋",
+      "name": "高山陣屋"
+    },
+    "osm-way-242778097": {
+      "wikidata": "Q132348820",
+      "name": "上田市立信濃国分寺資料館"
+    },
+    "osm-way-244500320": {
+      "wikidata": "Q132541511",
+      "name": "木田金次郎美術館"
+    },
+    "osm-way-245393263": {
+      "wikidata": "Q104696304",
+      "name": "花巻市博物館"
+    },
+    "osm-way-245403676": {
+      "wikidata": "Q6890444",
+      "wikipedia": "ja:最上義光歴史館",
+      "name": "最上義光歴史館"
+    },
+    "osm-way-245403850": {
+      "wikidata": "Q4707630",
+      "wikipedia": "ja:山形県立博物館",
+      "name": "山形県立博物館"
+    },
+    "osm-way-246449709": {
+      "wikidata": "Q85883757",
+      "wikipedia": "ja:諏訪市博物館",
+      "name": "諏訪市博物館"
+    },
+    "osm-way-246455301": {
+      "wikidata": "Q11666529",
+      "wikipedia": "ja:飯田市美術博物館",
+      "name": "飯田市美術博物館"
+    },
+    "osm-way-248451390": {
+      "wikidata": "Q2587322",
+      "wikipedia": "ja:アドベンチャーワールド",
+      "name": "アドベンチャーワールド"
+    },
+    "osm-way-250513019": {
+      "wikidata": "Q5965394",
+      "wikipedia": "ja:高知県立坂本龍馬記念館",
+      "name": "高知県立坂本龍馬記念館"
+    },
+    "osm-way-253970106": {
+      "wikidata": "Q110558146",
+      "wikipedia": "ja:新潮社記念文学館",
+      "name": "新潮社記念文学館"
+    },
+    "osm-way-253970115": {
+      "wikidata": "Q11436065",
+      "wikipedia": "ja:大村美術館",
+      "name": "大村美術館"
+    },
+    "osm-way-262671458": {
+      "wikidata": "Q11468661",
+      "wikipedia": "ja:山形美術館",
+      "name": "山形美術館"
+    },
+    "osm-way-262794946": {
+      "wikidata": "Q17229517",
+      "wikimedia_commons": "Category:Nabana no Sato",
+      "wikipedia": "ja:なばなの里",
+      "name": "なばなの里"
+    },
+    "osm-way-277264845": {
+      "wikidata": "Q11511120",
+      "wikipedia": "ja:旧細川刑部邸",
+      "name": "旧細川刑部邸 (Hosokawa Gyōbutei)"
+    },
+    "osm-way-284934090": {
+      "wikidata": "Q11549309",
+      "wikimedia_commons": "Category:Suigo Sawara Dashi Kaikan",
+      "wikipedia": "ja:水郷佐原山車会館",
+      "name": "水郷佐原山車会館"
+    },
+    "osm-way-297007477": {
+      "wikidata": "Q65233819",
+      "wikipedia": "ja:いでは文化記念館",
+      "name": "いでは文化記念館"
+    },
+    "osm-way-300077872": {
+      "wikidata": "Q739612",
+      "wikimedia_commons": "Category:Matsumoto Castle",
+      "wikipedia": "ja:松本城",
+      "name": "松本城"
+    },
+    "osm-way-310458399": {
+      "wikidata": "Q11631864",
+      "wikipedia": "ja:諏訪市原田泰治美術館",
+      "name": "原田泰治美術館"
+    },
+    "osm-way-311853815": {
+      "wikidata": "Q11489939",
+      "wikipedia": "ja:徳島県立文学書道館",
+      "name": "徳島県立文学書道館"
+    },
+    "osm-way-338760293": {
+      "wikidata": "Q104696383",
+      "name": "大宝館"
+    },
+    "osm-way-338760294": {
+      "wikidata": "Q11675958",
+      "wikimedia_commons": "File:Fujisawa_Shuhei_Museum_April_2024.jpg",
+      "wikipedia": "ja:鶴岡市立藤沢周平記念館",
+      "name": "鶴岡市立藤沢周平記念館"
+    },
+    "osm-way-344633922": {
+      "wikidata": "Q11591369",
+      "wikimedia_commons": "Category:Fukui City History Museum",
+      "wikipedia": "ja:福井市立郷土歴史博物館",
+      "name": "福井市立郷土歴史博物館"
+    },
+    "osm-way-361739159": {
+      "wikidata": "Q11391175",
+      "name": "八戸市水産科学館マリエント"
+    },
+    "osm-way-374678902": {
+      "wikidata": "Q82594996",
+      "wikipedia": "ja:白山市立松任中川一政記念美術館",
+      "name": "白山市立松任中川一政記念美術館"
+    },
+    "osm-way-379038541": {
+      "wikidata": "Q11641528",
+      "wikipedia": "ja:道の駅那須野が原博物館",
+      "name": "那須野が原博物館"
+    },
+    "osm-way-386746601": {
+      "wikidata": "Q11322055",
+      "name": "トルコ記念館"
+    },
+    "osm-way-387787207": {
+      "wikidata": "Q84418600",
+      "wikipedia": "ja:池波正太郎真田太平記館",
+      "name": "池波正太郎真田太平記館"
+    },
+    "osm-way-394661396": {
+      "wikidata": "Q15228713",
+      "name": "いの町紙の博物館"
+    },
+    "osm-way-397666685": {
+      "wikidata": "Q133273346",
+      "wikimedia_commons": "Category:Hōmotsukan, Chikurinji (Kochi)",
+      "name": "宝物殿"
+    },
+    "osm-way-398810885": {
+      "wikidata": "Q11420253",
+      "wikipedia": "ja:因幡万葉歴史館",
+      "name": "因幡万葉歴史館"
+    },
+    "osm-way-399746231": {
+      "wikidata": "Q11471127",
+      "wikipedia": "ja:山陰海岸ジオパーク館",
+      "name": "新温泉町山陰海岸ジオパーク館"
+    },
+    "osm-way-400583082": {
+      "wikidata": "Q11672436",
+      "wikipedia": "ja:高知県立のいち動物公園",
+      "name": "高知県立のいち動物公園"
+    },
+    "osm-way-401738807": {
+      "wikidata": "Q4556499",
+      "wikimedia_commons": "Category:Chichu Art Museum",
+      "wikipedia": "ja:地中美術館",
+      "name": "地中美術館"
+    },
+    "osm-way-401738808": {
+      "wikidata": "Q11522528",
+      "wikimedia_commons": "Category:Lee Ufan Museum",
+      "wikipedia": "ja:李禹煥美術館",
+      "name": "李禹煥美術館"
+    },
+    "osm-way-409569212": {
+      "wikidata": "Q131693438",
+      "name": "鳥取砂丘こどもの国"
+    },
+    "osm-way-412898359": {
+      "wikidata": "Q135237476",
+      "wikimedia_commons": "Category:Shiraike-jigoku",
+      "name": "白池地獄"
+    },
+    "osm-way-417446106": {
+      "wikidata": "Q135237475",
+      "name": "鬼山地獄"
+    },
+    "osm-way-417446108": {
+      "wikidata": "Q109445768",
+      "name": "かまど地獄"
+    },
+    "osm-way-417968639": {
+      "wikidata": "Q135237481",
+      "wikimedia_commons": "Category:Yama-jigoku",
+      "name": "山地獄"
+    },
+    "osm-way-428283830": {
+      "wikidata": "Q11661221",
+      "wikipedia": "ja:青山剛昌ふるさと館",
+      "name": "青山剛昌ふるさと館"
+    },
+    "osm-way-428924769": {
+      "wikidata": "Q11562497",
+      "wikipedia": "ja:渡辺美術館",
+      "name": "渡辺美術館"
+    },
+    "osm-way-438189049": {
+      "wikidata": "Q85884017",
+      "wikimedia_commons": "Category:Dōtonbori Bridge",
+      "wikipedia": "ja:道頓堀橋",
+      "name": "道頓堀橋"
+    },
+    "osm-way-439267530": {
+      "wikidata": "Q132156762",
+      "name": "今帰仁村歴史文化センター"
+    },
+    "osm-way-441363881": {
+      "wikidata": "Q11675955",
+      "wikipedia": "ja:鶴岡市立加茂水族館",
+      "name": "鶴岡市立加茂水族館"
+    },
+    "osm-way-452119189": {
+      "wikidata": "Q11264065",
+      "wikipedia": "ja:かにっこ館",
+      "name": "とっとり賀露かにっこ館"
+    },
+    "osm-way-482457022": {
+      "wikidata": "Q11549453",
+      "name": "水野美術館"
+    },
+    "osm-way-483362866": {
+      "wikidata": "Q11630689",
+      "wikipedia": "ja:角塚古墳",
+      "name": "角塚古墳"
+    },
+    "osm-way-490918179": {
+      "wikidata": "Q123476040",
+      "wikipedia": "ja:高山祭屋台会館",
+      "name": "高山屋台会館"
+    },
+    "osm-way-494788830": {
+      "wikidata": "Q11384093",
+      "wikimedia_commons": "Category:Sato Haruo Memorial Museum",
+      "wikipedia": "ja:佐藤春夫記念館",
+      "name": "佐藤春夫記念館"
+    },
+    "osm-way-495904855": {
+      "wikidata": "Q78909892",
+      "wikimedia_commons": "Category:MOSAIC TILE MUSEUM Tajimi",
+      "wikipedia": "ja:多治見市モザイクタイルミュージアム",
+      "name": "モザイクタイルミュージアム"
+    },
+    "osm-way-496681934": {
+      "wikidata": "Q28328048",
+      "name": "安城市歴史博物館"
+    },
+    "osm-way-498985945": {
+      "wikidata": "Q1920251",
+      "wikimedia_commons": "Category:Menard Art Museum",
+      "wikipedia": "ja:メナード美術館",
+      "name": "メナード美術館"
+    },
+    "osm-way-500212839": {
+      "wikidata": "Q21655090",
+      "wikipedia": "ja:夢と学びの科学体験館",
+      "name": "夢と学びの科学体験館"
+    },
+    "osm-way-500621920": {
+      "wikidata": "Q56347482",
+      "wikipedia": "ja:高知県立高知城歴史博物館",
+      "name": "高知城歴史博物館"
+    },
+    "osm-way-506335372": {
+      "wikidata": "Q11666522",
+      "wikipedia": "ja:飯田市川本喜八郎人形美術館",
+      "name": "飯田市川本喜八郎人形美術館"
+    },
+    "osm-way-506335385": {
+      "wikidata": "Q11666524",
+      "wikipedia": "ja:飯田市立動物園",
+      "name": "飯田市立動物園"
+    },
+    "osm-way-506718912": {
+      "wikipedia": "ja:飯田城 (信濃国)#桜丸御殿の夫婦桜",
+      "name": "飯田城桜丸御門（赤門）"
+    },
+    "osm-way-516619820": {
+      "wikidata": "Q11613201",
+      "wikipedia": "en:Chidō Museum",
+      "name": "致道博物館"
+    },
+    "osm-way-521638240": {
+      "wikidata": "Q11282150",
+      "wikipedia": "ja:アイシンコムセンター",
+      "name": "アイシンコムセンター"
+    },
+    "osm-way-522869869": {
+      "wikidata": "Q28689689",
+      "wikipedia": "ja:富山県美術館",
+      "name": "富山県美術館"
+    },
+    "osm-way-539540719": {
+      "wikidata": "Q11324991",
+      "name": "ニューレオマワールド"
+    },
+    "osm-way-539542304": {
+      "wikidata": "Q3196520",
+      "name": "城島高原パーク"
+    },
+    "osm-way-539542792": {
+      "wikidata": "Q11348254",
+      "name": "リナワールド"
+    },
+    "osm-way-539547422": {
+      "wikidata": "Q11342840",
+      "wikipedia": "ja:ミラージュランド",
+      "name": "ミラージュランド"
+    },
+    "osm-way-549006647": {
+      "wikidata": "Q11580327",
+      "wikipedia": "ja:白良浜",
+      "name": "白良浜"
+    },
+    "osm-way-553585206": {
+      "wikidata": "Q847251",
+      "wikipedia": "ja:上山城",
+      "name": "上山城"
+    },
+    "osm-way-556758191": {
+      "wikidata": "Q11404944",
+      "wikimedia_commons": "Category:Towada Art Center",
+      "wikipedia": "ja:十和田市現代美術館",
+      "name": "十和田市現代美術館"
+    },
+    "osm-way-558385334": {
+      "wikidata": "Q63964801",
+      "name": "ふじのくに茶の都ミュージアム"
+    },
+    "osm-way-560529786": {
+      "wikidata": "Q22032382",
+      "wikipedia": "ja:鷹山宇一記念美術館",
+      "name": "鷹山宇一記念美術館"
+    },
+    "osm-way-581243509": {
+      "wikidata": "Q11411016",
+      "wikipedia": "ja:古墳と柿の館",
+      "name": "古墳と柿の館"
+    },
+    "osm-way-582776511": {
+      "wikidata": "Q11672370",
+      "name": "高知市立自由民権記念館"
+    },
+    "osm-way-585276392": {
+      "wikidata": "Q5751493",
+      "wikipedia": "ja:飛騨民俗村",
+      "name": "飛騨の里"
+    },
+    "osm-way-585995159": {
+      "wikidata": "Q2969384",
+      "wikimedia_commons": "Category:Gujohachiman Castle",
+      "wikipedia": "ja:郡上八幡城",
+      "name": "郡上八幡城"
+    },
+    "osm-way-594277360": {
+      "wikidata": "Q11359772",
+      "wikipedia": "ja:上田市立博物館",
+      "name": "上田市立博物館"
+    },
+    "osm-way-605828771": {
+      "wikidata": "Q17210960",
+      "wikipedia": "ja:満蒙開拓平和記念館",
+      "name": "満蒙開拓平和記念館"
+    },
+    "osm-way-624090808": {
+      "wikidata": "Q11676560",
+      "name": "ふるさと考古歴史館"
+    },
+    "osm-way-628784830": {
+      "wikidata": "Q11467781",
+      "wikipedia": "ja:山居倉庫",
+      "name": "山居倉庫"
+    },
+    "osm-way-630644449": {
+      "wikidata": "Q132733689",
+      "name": "滋賀県平和祈念館"
+    },
+    "osm-way-635871921": {
+      "wikidata": "Q132731830",
+      "name": "甲賀市立信楽産業展示館"
+    },
+    "osm-way-656792807": {
+      "wikidata": "Q61721910",
+      "wikipedia": "ja:イヨボヤ会館",
+      "name": "イヨボヤ会館"
+    },
+    "osm-way-658567864": {
+      "wikidata": "Q4707652",
+      "wikimedia_commons": "Category:Tottori Prefectural Museum",
+      "wikipedia": "ja:鳥取県立博物館",
+      "name": "鳥取県立博物館"
+    },
+    "osm-way-660871771": {
+      "wikidata": "Q11568009",
+      "name": "熊本市動植物園"
+    },
+    "osm-way-662908096": {
+      "wikidata": "Q133288742",
+      "name": "志賀高原ロマン美術館"
+    },
+    "osm-way-670470323": {
+      "wikidata": "Q66432954",
+      "wikipedia": "ja:四国水族館",
+      "name": "四国水族館"
+    },
+    "osm-way-676513430": {
+      "wikidata": "Q11426145",
+      "wikipedia": "ja:城崎麦わら細工伝承館",
+      "name": "城崎麦わら細工伝承館"
+    },
+    "osm-way-688105164": {
+      "wikidata": "Q11378931",
+      "wikimedia_commons": "Category:Ninja Kingdom Ise",
+      "wikipedia": "ja:ともいきの国 伊勢忍者キングダム",
+      "name": "ともいきの国 伊勢忍者キングダム"
+    },
+    "osm-way-695573884": {
+      "wikidata": "Q2496483",
+      "wikipedia": "ja:高知県立美術館",
+      "name": "高知県立美術館"
+    },
+    "osm-way-695946241": {
+      "wikidata": "Q4778670",
+      "wikimedia_commons": "Category:Aomori Bay Bridge",
+      "wikipedia": "ja:青森ベイブリッジ",
+      "name": "青森ベイブリッジ"
+    },
+    "osm-way-703211783": {
+      "wikidata": "Q716411",
+      "wikipedia": "ja:旧開智学校",
+      "name": "旧開智学校"
+    },
+    "osm-way-733135905": {
+      "wikidata": "Q22117790",
+      "wikimedia_commons": "Category:Shippo Art Village",
+      "wikipedia": "ja:あま市七宝焼アートヴィレッジ",
+      "name": "あま市七宝焼アートヴィレッジ"
+    },
+    "osm-way-749870314": {
+      "wikidata": "Q121047072",
+      "name": "ジョン万次郎資料館"
+    },
+    "osm-way-753621499": {
+      "wikidata": "Q77824459",
+      "wikipedia": "ja:草津宿本陣",
+      "name": "草津宿本陣"
+    },
+    "osm-way-775606446": {
+      "wikidata": "Q28684346",
+      "wikipedia": "ja:岩槻人形博物館",
+      "name": "岩槻人形博物館"
+    },
+    "osm-way-781160764": {
+      "wikidata": "Q11591010",
+      "wikipedia": "ja:神長官守矢史料館",
+      "name": "神長官守矢史料館"
+    },
+    "osm-way-783248397": {
+      "wikidata": "Q88281532",
+      "wikipedia": "ja:草津市立草津宿街道交流館",
+      "name": "草津宿街道交流館"
+    },
+    "osm-way-832914030": {
+      "wikidata": "Q11564689",
+      "wikipedia": "ja:滋賀県立陶芸の森",
+      "name": "滋賀県立陶芸の森陶芸館"
+    },
+    "osm-way-877408187": {
+      "wikidata": "Q43925727",
+      "wikipedia": "en:Hiraodai Nature Observation Center",
+      "name": "平尾台自然観察センター"
+    },
+    "osm-way-920581128": {
+      "wikidata": "Q111630831",
+      "wikipedia": "ja:下市田学校",
+      "name": "旧下市田学校校舎"
+    },
+    "osm-way-925871607": {
+      "wikidata": "Q11378328",
+      "wikipedia": "ja:以命亭",
+      "name": "浜坂先人記念館「以命亭」"
+    },
+    "osm-way-942000435": {
+      "wikidata": "Q11415016",
+      "wikimedia_commons": "Category:Nagoya City Science Museum",
+      "wikipedia": "ja:名古屋市科学館",
+      "name": "名古屋市科学館"
+    },
+    "osm-way-959033778": {
+      "wikidata": "Q86743350",
+      "wikipedia": "ja:袋屋美術館",
+      "name": "袋屋美術館"
+    },
+    "osm-way-965546830": {
+      "wikidata": "Q65069112",
+      "wikipedia": "ja:恒川官衙遺跡",
+      "name": "恒川官衙遺跡"
+    },
+    "osm-way-966116946": {
+      "wikidata": "Q99611864",
+      "wikipedia": "ja:高知県立足摺海洋館",
+      "name": "高知県立足摺海洋館「SATOUMI」"
+    },
+    "osm-way-972134254": {
+      "wikidata": "Q11536966",
+      "wikipedia": "ja:桃介橋",
+      "name": "桃介橋"
+    },
+    "osm-way-975578654": {
+      "wikipedia": "ja:飯田古墳群",
+      "name": "高岡1号古墳"
+    },
+    "osm-way-977874713": {
+      "wikipedia": "ja:吉村虎太郎",
+      "name": "吉村虎太郎邸"
+    },
+    "osm-way-1001521134": {
+      "wikidata": "Q8081723",
+      "name": "太田宿中山道会館"
+    },
+    "osm-way-1001543435": {
+      "wikidata": "Q97310632",
+      "name": "ヤマザキマザック工作機械博物館"
+    },
+    "osm-way-1006598137": {
+      "wikidata": "Q106211284",
+      "wikipedia": "ja:石水博物館",
+      "name": "石水博物館"
+    },
+    "osm-way-1019993015": {
+      "wikidata": "Q22118342",
+      "wikipedia": "ja:河北町児童動物園",
+      "name": "河北町児童動物園"
+    },
+    "osm-way-1029383805": {
+      "wikidata": "Q110858996",
+      "wikipedia": "ja:白山瀧宝殿",
+      "name": "白山瀧宝殿"
+    },
+    "osm-way-1040428833": {
+      "wikidata": "Q11531052",
+      "wikipedia": "ja:松本市美術館",
+      "name": "松本市美術館"
+    },
+    "osm-way-1041860073": {
+      "wikidata": "Q575499",
+      "wikipedia": "ja:マザー牧場",
+      "name": "マザー 牧場"
+    },
+    "osm-way-1061555847": {
+      "wikidata": "Q11536832",
+      "name": "桂浜水族館"
+    },
+    "osm-way-1063469545": {
+      "wikidata": "Q56739393",
+      "wikipedia": "ja:むろと廃校水族館",
+      "name": "むろと廃校水族館"
+    },
+    "osm-way-1097414233": {
+      "wikidata": "Q38267005",
+      "wikipedia": "ja:仙台万華鏡美術館",
+      "name": "仙台万華鏡美術館"
+    },
+    "osm-way-1127515332": {
+      "wikidata": "Q11368010",
+      "wikipedia": "ja:丸亀平井美術館",
+      "name": "丸亀平井美術館"
+    },
+    "osm-way-1173696030": {
+      "wikidata": "Q24874913",
+      "wikipedia": "ja:桑名市博物館",
+      "name": "桑名市博物館"
+    },
+    "osm-way-1202868576": {
+      "wikidata": "Q28691959",
+      "wikipedia": "ja:阿波海南文化村",
+      "name": "阿波海南文化村"
+    },
+    "osm-way-1219514134": {
+      "wikidata": "Q131597161",
+      "name": "展望デッキ"
+    },
+    "osm-way-1239805766": {
+      "wikidata": "Q11593787",
+      "wikipedia": "ja:福崎町立神崎郡歴史民俗資料館",
+      "name": "福崎町立神崎郡歴史民俗資料館"
+    },
+    "osm-way-1244740810": {
+      "wikidata": "Q11568880",
+      "wikipedia": "ja:熊野古道なかへち美術館",
+      "name": "中辺路美術館;Nakahechi Museum"
+    },
+    "osm-way-1339172310": {
+      "wikidata": "Q104710299",
+      "name": "高山まつりの森"
+    },
+    "osm-way-1342700012": {
+      "wikidata": "Q131226753",
+      "wikipedia": "ja:村上家住宅",
+      "name": "民俗資料館村上家"
+    },
+    "osm-way-1349911971": {
+      "wikipedia": "ja:山鹿灯籠民芸館",
+      "name": "山鹿灯篭民芸館"
+    },
+    "osm-way-1357191882": {
+      "wikidata": "Q11337011",
+      "wikimedia_commons": "Category:Benesse Art Site Naoshima",
+      "wikipedia": "ja:ベネッセアートサイト直島",
+      "name": "ベネッセアートサイト直島"
+    },
+    "osm-way-1359597112": {
+      "wikidata": "Q5709027",
+      "wikimedia_commons": "Category:Beppu Jigokumeguri",
+      "wikipedia": "ja:別府地獄めぐり",
+      "name": "別府地獄めぐり"
+    },
+    "osm-way-1382555824": {
+      "wikidata": "Q4782699",
+      "wikipedia": "ja:アクアマリンふくしま",
+      "name": "アクアマリンふくしま"
+    },
+    "osm-way-1385316939": {
+      "wikidata": "Q818646",
+      "wikipedia": "ja:別府タワー",
+      "name": "別府タワー"
+    },
+    "osm-way-1389763057": {
+      "wikidata": "Q65249244",
+      "wikipedia": "ja:出羽三山歴史博物館",
+      "name": "出羽三山歴史博物館"
+    },
+    "osm-way-1420335392": {
+      "wikidata": "Q11489793",
+      "wikimedia_commons": "Category:Tokushima Municipal Tokushima Castle Museum",
+      "wikipedia": "ja:徳島市立徳島城博物館",
+      "name": "徳島市立徳島城博物館"
+    },
+    "osm-way-1420969865": {
+      "wikidata": "Q11674832",
+      "wikipedia": "ja:鳥取砂丘情報館",
+      "name": "砂の美術館"
+    },
+    "osm-way-1455704574": {
+      "wikidata": "Q11371781",
+      "wikipedia": "ja:伊勢夫婦岩ふれあい水族館シーパラダイス",
+      "name": "伊勢シーパラダイス"
+    }
+  }
+}

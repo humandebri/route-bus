@@ -1,0 +1,37 @@
+[
+  {
+    "category": "museum",
+    "query": "SELECT DISTINCT ?item ?itemLabel ?coord ?image WHERE { ?item wdt:P17 wd:Q17; wdt:P31/wdt:P279* wd:Q33506; wdt:P625 ?coord; wdt:P18 ?image. FILTER NOT EXISTS { ?item wdt:P576 ?dissolved } SERVICE wikibase:label { bd:serviceParam wikibase:language \"ja,en\". } } ORDER BY ?item LIMIT 45",
+    "count": 45
+  },
+  {
+    "category": "shrine",
+    "query": "SELECT DISTINCT ?item ?itemLabel ?coord ?image WHERE { ?item wdt:P17 wd:Q17; wdt:P31/wdt:P279* wd:Q845945; wdt:P625 ?coord; wdt:P18 ?image. FILTER NOT EXISTS { ?item wdt:P576 ?dissolved } SERVICE wikibase:label { bd:serviceParam wikibase:language \"ja,en\". } } ORDER BY ?item LIMIT 45",
+    "error": "HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+  },
+  {
+    "category": "temple",
+    "query": "SELECT DISTINCT ?item ?itemLabel ?coord ?image WHERE { ?item wdt:P17 wd:Q17; wdt:P31/wdt:P279* wd:Q44539; wdt:P625 ?coord; wdt:P18 ?image. FILTER NOT EXISTS { ?item wdt:P576 ?dissolved } SERVICE wikibase:label { bd:serviceParam wikibase:language \"ja,en\". } } ORDER BY ?item LIMIT 45",
+    "error": "HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+  },
+  {
+    "category": "lake",
+    "query": "SELECT DISTINCT ?item ?itemLabel ?coord ?image WHERE { ?item wdt:P17 wd:Q17; wdt:P31/wdt:P279* wd:Q23397; wdt:P625 ?coord; wdt:P18 ?image. FILTER NOT EXISTS { ?item wdt:P576 ?dissolved } SERVICE wikibase:label { bd:serviceParam wikibase:language \"ja,en\". } } ORDER BY ?item LIMIT 45",
+    "error": "HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+  },
+  {
+    "category": "waterfall",
+    "query": "SELECT DISTINCT ?item ?itemLabel ?coord ?image WHERE { ?item wdt:P17 wd:Q17; wdt:P31/wdt:P279* wd:Q34038; wdt:P625 ?coord; wdt:P18 ?image. FILTER NOT EXISTS { ?item wdt:P576 ?dissolved } SERVICE wikibase:label { bd:serviceParam wikibase:language \"ja,en\". } } ORDER BY ?item LIMIT 45",
+    "error": "HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+  },
+  {
+    "category": "castle",
+    "query": "SELECT DISTINCT ?item ?itemLabel ?coord ?image WHERE { ?item wdt:P17 wd:Q17; wdt:P31/wdt:P279* wd:Q23413; wdt:P625 ?coord; wdt:P18 ?image. FILTER NOT EXISTS { ?item wdt:P576 ?dissolved } SERVICE wikibase:label { bd:serviceParam wikibase:language \"ja,en\". } } ORDER BY ?item LIMIT 45",
+    "error": "HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+  },
+  {
+    "category": "national-park",
+    "query": "SELECT DISTINCT ?item ?itemLabel ?coord ?image WHERE { ?item wdt:P17 wd:Q17; wdt:P31/wdt:P279* wd:Q46169; wdt:P625 ?coord; wdt:P18 ?image. FILTER NOT EXISTS { ?item wdt:P576 ?dissolved } SERVICE wikibase:label { bd:serviceParam wikibase:language \"ja,en\". } } ORDER BY ?item LIMIT 45",
+    "error": "HTTP Error 429: Aggressively rate-limiting to 1 req / min - this rule was created during active wdqs outage (797a132)"
+  }
+]

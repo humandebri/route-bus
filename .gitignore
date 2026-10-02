@@ -1,0 +1,50 @@
+# Local secrets; keep the shared setup template.
+.env
+.env.*
+!.env.example
+.dev.vars
+.dev.vars.*
+
+# Dependencies, generated builds and local development state.
+node_modules/
+.pnpm-store/
+dist/
+build/
+.wrangler/
+.tanstack/
+.vlmkit/
+.tools/
+.cache/
+*.tsbuildinfo
+.eslintcache
+
+# Python environments and caches.
+.venv/
+.venv-data/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Test reports, logs and workstation metadata.
+test-results/
+playwright-report/
+blob-report/
+coverage/
+*.log
+.DS_Store
+._*
+.idea/
+
+# Downloaded and merged collection results; regenerate with the data scripts.
+# Keep editorial inputs, source provenance and the browser publication snapshot.
+data/raw/
+data/municipal-spots.json
+data/osm-spots.json
+data/tourism-spots.json
+data/sources/*-source.html
+data/sources/commons-metadata.json
+data/sources/gtfs-repository.html

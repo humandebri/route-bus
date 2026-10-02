@@ -1,0 +1,5 @@
+import { createFileRoute, notFound } from '@tanstack/react-router'
+import {t,seoLinks} from '../i18n'
+import { Explorer } from '../components/Explorer'
+import { getCatalog,getRoute } from '../server-functions'
+export const Route=createFileRoute('/routes/$routeId')({loader:async({params})=>{const [routes,selected]=await Promise.all([getCatalog(),getRoute({data:params.routeId})]);if(!selected)throw notFound();return {routes:routes.some(r=>r.id===selected.id)?routes.map(r=>r.id===selected.id?selected:r):[selected,...routes],id:params.routeId}},head:({loaderData,match})=>{const route=loaderData?.routes.find(r=>r.id===loaderData.id);const en=match.search.lang==='en';return {meta:[{title:en?`${route?.nameEn||t(route?.featuredName||route?.name||'Route','en')} | Tabi Bus Map`:`${route?.name??'路線'}｜旅バスマップ`}],links:seoLinks('/routes/'+encodeURIComponent(match.params.routeId),en?'en':'ja')};},component:()=>{const {routes,id}=Route.useLoaderData();return <Explorer routes={routes} initialId={id}/>}})

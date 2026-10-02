@@ -1,0 +1,14 @@
+PRAGMA foreign_keys = ON;
+CREATE TABLE operators (id TEXT PRIMARY KEY, name TEXT NOT NULL, official_url TEXT);
+CREATE TABLE routes (id TEXT PRIMARY KEY, operator_id TEXT REFERENCES operators(id), name TEXT NOT NULL, region TEXT, active INTEGER NOT NULL DEFAULT 1, document TEXT NOT NULL CHECK(json_valid(document)));
+CREATE TABLE route_patterns (id TEXT PRIMARY KEY, route_id TEXT NOT NULL REFERENCES routes(id), direction_id INTEGER, shape_key TEXT);
+CREATE TABLE stops (id TEXT PRIMARY KEY, name TEXT NOT NULL, lat REAL NOT NULL, lng REAL NOT NULL);
+CREATE TABLE route_stops (pattern_id TEXT REFERENCES route_patterns(id), stop_id TEXT REFERENCES stops(id), sequence INTEGER NOT NULL, PRIMARY KEY(pattern_id,sequence));
+CREATE TABLE spots (id TEXT PRIMARY KEY, name TEXT NOT NULL, lat REAL NOT NULL, lng REAL NOT NULL, description TEXT, official_url TEXT);
+CREATE TABLE spot_photos (id TEXT PRIMARY KEY, spot_id TEXT REFERENCES spots(id), object_key TEXT NOT NULL, credit TEXT NOT NULL, license TEXT NOT NULL, source_url TEXT);
+CREATE TABLE spot_stops (spot_id TEXT REFERENCES spots(id), stop_id TEXT REFERENCES stops(id), walk_minutes INTEGER, PRIMARY KEY(spot_id,stop_id));
+CREATE TABLE route_spots (route_id TEXT REFERENCES routes(id), spot_id TEXT REFERENCES spots(id), stop_id TEXT REFERENCES stops(id), walk_minutes INTEGER, sequence INTEGER, PRIMARY KEY(route_id,spot_id));
+CREATE INDEX route_spots_sequence ON route_spots(route_id,sequence);
+CREATE TABLE scenic_points (id TEXT PRIMARY KEY, route_id TEXT REFERENCES routes(id), lat REAL, lng REAL, description TEXT, side TEXT);
+CREATE TABLE gtfs_sources (id TEXT PRIMARY KEY, operator_id TEXT REFERENCES operators(id), url TEXT NOT NULL, license TEXT NOT NULL, etag TEXT, updated_at TEXT);
+CREATE TABLE gtfs_imports (id TEXT PRIMARY KEY, source_id TEXT REFERENCES gtfs_sources(id), status TEXT NOT NULL, original_key TEXT, created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP, error TEXT);

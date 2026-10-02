@@ -1,0 +1,28 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "route-bus",
+  "main": "src/server.ts",
+  "compatibility_date": "2026-09-27",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "bus-map",
+      "database_id": "1c65d44d-d325-4a68-a12b-136ebad9e409",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "r2_buckets": [
+    {
+      "binding": "MAP_DATA",
+      "bucket_name": "bus-map-data"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  },
+  "account_id": "2234bc4611b638cb7453be0ba8a63927",
+  "workers_dev": true
+}
